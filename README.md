@@ -1,15 +1,35 @@
 # Curated Rust
 This is a list of resources that I used to learn Rust. It is being added to incrementally as I myself learn rust over the next couple of months and weeks.
 
+Some of the days, there are extra material. This is for material that is either not free, material that does not add anything new
+, or only elaborated on previously covered topics.
 
 ## Week 1: Introduction and orientation
+This is our introduction to Rust. We will be watching a lot of video and we will be doing a bit of reading.
+Some smaller exercises will also pop up during this week.
 
 ### Day 1: What is Rust?
-So. For this first couple of days we will get to know a lot of things about Rust and we will get to travel to different parts of Rust. Try to relax. It's important that you **don't try to learn anything**. Just sit back and try to enjoy it. You probably won't understand all of the material for today, and that's totally fine. You're not meant to understand it all. In time, we will come back to some of this material, and you will see, that you then understand it all.
+So. For this first couple of days we will get to know a lot of things about Rust and we will get to travel 
+to different parts of Rust. Try to relax. It's important that you **don't try to learn anything**. 
+Just sit back and try to enjoy it. You probably won't understand all of the material for today, 
+and that's totally fine. You're not meant to understand it all. In time, we will come back to some of 
+this material, and you will see, that you then understand it all.
 
-* 
+* 55 min: Watch [Rust - A Lanauge for the Next 40 Years - Carol Nichols](https://www.youtube.com/watch?v=A3AdN7U24iU)
 
-### Day 2
+Extras:
+
+
+### Day 2: 
+Time to get started. Start off by watching a short video on Rust. Then we continue reading through the introduction (section 1) [Introduction - The Rust Programming Language](https://doc.rust-lang.org/stable/book/ch00-00-introduction.html),
+this will have you create not one, but two Hello World! apps.
+We then do a bit more intro reading by reading pages sections 1 Why Rust? and 2 Type Safety from [Why Rust?](https://www.oreilly.com/programming/free/files/why-rust.pdf).
+
+* 6 min: Watch [Rust and the Future of Systems Programming](https://www.youtube.com/watch?v=8EPsnf_ZYU0)
+* 10 min: Read through [Introduction - The Rust Programming Language](https://doc.rust-lang.org/stable/book/ch00-00-introduction.html)
+* xx min: Read through Why Rust? of [Why Rust?](https://www.oreilly.com/programming/free/files/why-rust.pdf)
+* xx min: Read through the second section, Type Safety of [Why Rust?](https://www.oreilly.com/programming/free/files/why-rust.pdf).
+
 ### Day 3
 ### Day 4
 ### Day 5
