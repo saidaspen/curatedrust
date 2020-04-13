@@ -4,7 +4,7 @@ This is a list of resources that I used to learn Rust. It is being added to incr
 Some of the days, there are extra material. This is for material that is either not free, material that does not add anything new
 , or only elaborated on previously covered topics.
 
-## Week 1: Introduction and orientation
+## Week 1: Introduction and getting started
 This is our introduction to Rust. We will be watching a lot of video and we will be doing a bit of reading.
 Some smaller exercises will also pop up during this week.
 
@@ -27,15 +27,15 @@ We then do a bit more intro reading by reading pages sections 1 Why Rust? and 2 
 * 20 min: Read through [Introduction - The Rust Programming Language](https://doc.rust-lang.org/stable/book/ch00-00-introduction.html)
 * 10 min: Read through the first and second secions of [Why Rust?](https://www.oreilly.com/programming/free/files/why-rust.pdf); Why Rust? and Type Safety.
 * 10 min: Readh through the introduction of [A Gentle Introduction To Rust](https://stevedonovan.github.io/rust-gentle-intro/readme.html)
-* 15 min: Checkout the Hello World example of [Rust By Example](https://doc.rust-lang.org/stable/rust-by-example/hello.html). Read 1.1 Comments and 1.2 Formatted Print.
+* 15 min: Checkout the Hello World example of [Rust By Example](https://doc.rust-lang.org/stable/rust-by-example/hello.html). Read 1.1 Comments but skip section 1.2 Formatted Print for now.
 
-### Day 3
-### Day 4
-### Day 5
-### Day 6
-### Day 7
+### Day 3: Variables and types!
+### Day 4: Functions
+### Day 5: Control Flow
+### Day 6: Comments
+### Day 7: Type to put it all together
 
-## Week 1: 
+## Week 2: 
 
 ### Day 1
 ### Day 2
