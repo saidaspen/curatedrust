@@ -10,7 +10,7 @@ Some smaller exercises will also pop up during this week.
 
 ### Day 1: What is Rust?
 So. For this first couple of days we will get to know a lot of things about Rust and we will get to travel 
-to different parts of Rust. Try to relax. It's important that you **don't try to learn anything**. 
+to different parts of Rust. Try to relax. It's important that you **don't actively try to learn anything**. 
 Just sit back and try to enjoy it. You probably won't understand all of the material for today, 
 and that's totally fine. You're not meant to understand it all. In time, we will come back to some of 
 this material, and you will see, that you then understand it all.
