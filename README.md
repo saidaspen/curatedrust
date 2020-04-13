@@ -27,7 +27,7 @@ We then do a bit more intro reading by reading pages sections 1 Why Rust? and 2 
 * 20 min: Read through [Introduction - The Rust Programming Language](https://doc.rust-lang.org/stable/book/ch00-00-introduction.html)
 * 10 min: Read through the first and second secions of [Why Rust?](https://www.oreilly.com/programming/free/files/why-rust.pdf); Why Rust? and Type Safety.
 * 10 min: Readh through the introduction of [A Gentle Introduction To Rust](https://stevedonovan.github.io/rust-gentle-intro/readme.html)
-* 10 min: Checkout the Hello World example of [Rust By Example](https://doc.rust-lang.org/stable/rust-by-example/hello.html). Read 1.1 Comments and 1.2 Formatted Print.
+* 15 min: Checkout the Hello World example of [Rust By Example](https://doc.rust-lang.org/stable/rust-by-example/hello.html). Read 1.1 Comments and 1.2 Formatted Print.
 
 ### Day 3
 ### Day 4
