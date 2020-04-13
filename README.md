@@ -8,7 +8,7 @@ Some of the days, there are extra material. This is for material that is either 
 This is our introduction to Rust. We will be watching a lot of video and we will be doing a bit of reading.
 Some smaller exercises will also pop up during this week.
 
-### Day 1: What is Rust?
+### Day 1: What is Rust? (~ 1 hour)
 So. For this first couple of days we will get to know a lot of things about Rust and we will get to travel 
 to different parts of Rust. Try to relax. It's important that you **don't try too hard to learn anything**. 
 Just sit back and try to enjoy it. Things will become more clear as we go. 
@@ -18,7 +18,7 @@ this material later on.
 
 * 1h 3min: Watch [Considering Rust - Jon Gjengset](https://www.youtube.com/watch?v=DnT-LUQgc7s)
 
-### Day 2: Getting started
+### Day 2: Getting started (~ 1 hour)
 Time to get started. Start off by watching a short video on Rust. Then we continue reading through the introduction (section 1) [Introduction - The Rust Programming Language](https://doc.rust-lang.org/stable/book/ch00-00-introduction.html),
 this will have you create not one, but two Hello World! apps.
 We then do a bit more intro reading by reading pages sections 1 Why Rust? and 2 Type Safety from [Why Rust?](https://www.oreilly.com/programming/free/files/why-rust.pdf).
