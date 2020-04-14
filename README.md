@@ -36,7 +36,9 @@ Now we are actually about to write our first pieces of software. Let's get into 
 * 7 min: Read [3.1 Variables and Mutability](https://doc.rust-lang.org/stable/book/ch03-01-variables-and-mutability.html) from [The Rust Programming Language](https://doc.rust-lang.org/stable/book/title-page.html)
 * 10 min: Setup [Rustlings](https://github.com/fmoko/rustlings).
 * 15 min: Do exercises Variables1, through Variables 5 from the Rustlings Course
-
+* 2 min: Read about [constants](https://doc.rust-lang.org/stable/rust-by-example/custom_types/constants.html) in the [Rust By Example](https://doc.rust-lang.org/stable/rust-by-example/hello.html)
+* 2 min: Read about [constants](https://doc.rust-lang.org/stable/rust-by-example/custom_types/constants.html) in the [Rust By Example](https://doc.rust-lang.org/stable/rust-by-example/hello.html)
+* 5 min: Read all the sections of [Variable Bindings](https://doc.rust-lang.org/stable/rust-by-example/variable_bindings.html) from [Rust By Example](https://doc.rust-lang.org/stable/rust-by-example/hello.html)
 
 ### Day 4: Types 
 * xx min: Read [3.2 Data Types](https://doc.rust-lang.org/stable/book/ch03-02-data-types.html) from [The Rust Programming Language](https://doc.rust-lang.org/stable/book/title-page.html)
