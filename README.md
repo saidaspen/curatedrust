@@ -30,22 +30,22 @@ We then do a bit more intro reading by reading pages sections 1 Why Rust? and 2 
 * 15 min: Checkout the Hello World example of [Rust By Example](https://doc.rust-lang.org/stable/rust-by-example/hello.html). Read 1.1 Comments but skip section 1.2 Formatted Print for now.
 
 ### Day 3: Variables and types!
-We are getting closer to having all the tools we need to actually build software (which we will do pretty soon!). 
+Now we are actually about to write our first pieces of software. Let's get into it!
 
-* xx min: Read [2. Programming a Guessing Game](https://doc.rust-lang.org/stable/book/ch02-00-guessing-game-tutorial.html) from [The Rust Programming Language](https://doc.rust-lang.org/stable/book/title-page.html)
-* xx min: Read [3.1 Variables and Mutability](https://doc.rust-lang.org/stable/book/ch03-01-variables-and-mutability.html) from [The Rust Programming Language](https://doc.rust-lang.org/stable/book/title-page.html)
+* 25 min: Read [2. Programming a Guessing Game](https://doc.rust-lang.org/stable/book/ch02-00-guessing-game-tutorial.html) from [The Rust Programming Language](https://doc.rust-lang.org/stable/book/title-page.html)
+* 7 min: Read [3.1 Variables and Mutability](https://doc.rust-lang.org/stable/book/ch03-01-variables-and-mutability.html) from [The Rust Programming Language](https://doc.rust-lang.org/stable/book/title-page.html)
+* 10 min: Setup [Rustlings](https://github.com/fmoko/rustlings).
+* 15 min: Do exercises Variables1, through Variables 5 from the Rustlings Course
+
+
+### Day 4: TBD 
 * xx min: Read [3.2 Data Types](https://doc.rust-lang.org/stable/book/ch03-02-data-types.html) from [The Rust Programming Language](https://doc.rust-lang.org/stable/book/title-page.html)
 * xx min: Read [3.4 Comments](https://doc.rust-lang.org/stable/book/ch03-04-comments.html) from [The Rust Programming Language](https://doc.rust-lang.org/stable/book/title-page.html)
 * xx min: Read [1.1 Comments](https://doc.rust-lang.org/stable/rust-by-example/hello/comment.html) from [Rust By Example](https://doc.rust-lang.org/stable/rust-by-example/primitives.html)
 * xx min: Read [1.2 Formatted Print](https://doc.rust-lang.org/stable/rust-by-example/hello/print.html) from [Rust By Example](https://doc.rust-lang.org/stable/rust-by-example/primitives.html)
 * xx min: Read [2. Primitives](https://doc.rust-lang.org/stable/rust-by-example/primitives.html) from [Rust By Example](https://doc.rust-lang.org/stable/rust-by-example/primitives.html)
 
-Now for som exercises!
 
-* xx min: Setup Rustlings.
-* xx min: Do exercises Variables1, through Variables 5 from the Rustlings Course
-
-### Day 4: 
 ### Day 5: Functions
 ### Day 6: Control Flow
 ### Day 7: Type to put it all together
