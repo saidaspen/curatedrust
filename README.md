@@ -40,7 +40,7 @@ Now we are actually about to write our first pieces of software. Let's get into 
 * 📚 2 min: Read about [constants](https://doc.rust-lang.org/stable/rust-by-example/custom_types/constants.html) in the [Rust By Example](https://doc.rust-lang.org/stable/rust-by-example)
 * 📚 5 min: Read all the sections of [Variable Bindings](https://doc.rust-lang.org/stable/rust-by-example/variable_bindings.html) from [Rust By Example](https://doc.rust-lang.org/stable/rust-by-example/hello.html)
 
-### Day 4: Types (~ 1 hour 30 minutes)
+### Day 4: Types, Functions and flow control (~ 1 hour 30 minutes)
 * 📚 8 min: Read [3.2 Data Types](https://doc.rust-lang.org/stable/book/ch03-02-data-types.html) from [The Rust Programming Language](https://doc.rust-lang.org/stable/book/title-page.html)
 * 💻 5 min: Read all the sections of [2. Primitives](https://doc.rust-lang.org/stable/rust-by-example/primitives.html) from [Rust By Example](https://doc.rust-lang.org/stable/rust-by-example/primitives.html), skip the activity for section '2.2 Tuples' for now, we will get back to it.
 * 📚 8 min: Read [3.3 Functions](https://doc.rust-lang.org/stable/book/ch03-03-how-functions-work.html) from [The Rust Programming Language](https://doc.rust-lang.org/stable/book/title-page.html)
