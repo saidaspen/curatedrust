@@ -58,12 +58,23 @@ Now we are actually about to write our first pieces of software. Let's get into 
 All done? Great job! 🎉 
 If this took you three hours, rather than an hour and a half, don't worry about it. It's not a contest!
 
-### Week 1, Day 5: Ownership and borrowing
-### Week 1, Day 6: Ownership and borrowing continues
-### Week 1, Day 7: Structs, Slices and Strings
+### Week 1, Day 5: Taking a step back (~ 1 hour)
+Now we are getting into parts of Rust that many find confusion and difficult. Therefore we will spend more time on this. 
+We start off by looking at two presentations. I know, sometimes its hard co stay awake going through these. Check one of them out today, and look at the other tomorrow.
 
+* 📺 1h: Watch [What Is Rust? - Yehuda Katz](https://www.infoq.com/presentations/rust-gc/)
+
+### Week 1, Day 6: 
+Bring out the popcorn, another video, just as promised yesterday!
+Don't worry if you dont understand every detail in this video. We are heading into a part of rust that many find quite confusion and hard, namely Ownership and Borrowing. These two videos; the one you watched yesterday, and the one you will be watching now, will set you up to better understand the material to come. We will be taking a couple of days to go over this area, as it is quite advanced, but also very fundamental.
+
+* 📺 40 min: Watch [A Case for Oxidation: The Rust Programming Language - Sergio Benitez](https://www.youtube.com/watch?v=cDFSrVhnZKo)
+
+### Week 1, Day 7: Ownership and borrowing continues
 
 ## Upcoming
+###
+### Structs, Slices and Strings
 ### Let's write some code!
 ### Enums and pattern matching
 ### Pattern matching continued
@@ -163,6 +174,10 @@ Watch [What is Rust?](https://www.infoq.com/presentations/rust-gc/) [Video 1h]
 * [Rust Playground](https://play.rust-lang.org)
 
 ## Videos
+* [Learning Rust: Memory, Ownership and Borrowing](https://www.youtube.com/watch?v=8M0QfLUDaaA)
+* [Rust Crash Course | Rustlang](https://www.youtube.com/watch?v=zF34dRivLOw)
+* [Safe Systems Programming with Rust](https://www.youtube.com/watch?v=P3sfNGtpuxc)
+* [Growing the Rust Community](https://www.youtube.com/watch?v=duv0tuPAnO0)
 * [Rust: A Language for the Next 40 Years - Carol Nichols](https://www.youtube.com/watch?v=A3AdN7U24iU)
 * [Build a cryptocurrency! - Blockchain in Rust #01: Blocks & Hashing](https://www.youtube.com/watch?v=vJdT05zl6jk)
 * [Rust in Motion](https://www.manning.com/livevideo/rust-in-motion)
