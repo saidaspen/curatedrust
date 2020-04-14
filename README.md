@@ -64,13 +64,13 @@ We start off by looking at two presentations. I know, sometimes its hard co stay
 
 * 📺 1h: Watch [What Is Rust? - Yehuda Katz](https://www.infoq.com/presentations/rust-gc/)
 
-### Week 1, Day 6: 
+### Week 1, Day 6: Even more video!
 Bring out the popcorn, another video, just as promised yesterday!
 Don't worry if you dont understand every detail in this video. We are heading into a part of rust that many find quite confusion and hard, namely Ownership and Borrowing. These two videos; the one you watched yesterday, and the one you will be watching now, will set you up to better understand the material to come. We will be taking a couple of days to go over this area, as it is quite advanced, but also very fundamental.
 
 * 📺 40 min: Watch [A Case for Oxidation: The Rust Programming Language - Sergio Benitez](https://www.youtube.com/watch?v=cDFSrVhnZKo)
 
-### Week 1, Day 7: Ownership and borrowing continues
+### Week 1, Day 7: Ownership and borrowing
 
 ## Upcoming
 ###
