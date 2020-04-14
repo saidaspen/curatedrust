@@ -16,29 +16,29 @@ Just sit back and try to enjoy it. Things will become more clear as we go.
 You probably won't understand all of the material for today, and that's totally fine. If you do understand everything, then great, otherwise you will find that it will all be comperhensible in time, we will come back to some of 
 this material later on.
 
-* 1h 3min: Watch [Considering Rust - Jon Gjengset](https://www.youtube.com/watch?v=DnT-LUQgc7s)
+* 📺 1h 3min: Watch [Considering Rust - Jon Gjengset](https://www.youtube.com/watch?v=DnT-LUQgc7s)
 
 ### Day 2: Getting started (~ 1 hour)
 Time to get started. Start off by watching a short video on Rust. Then we continue reading through the introduction (section 1) [Introduction - The Rust Programming Language](https://doc.rust-lang.org/stable/book/ch00-00-introduction.html),
 this will have you create not one, but two Hello World! apps.
 We then do a bit more intro reading by reading pages sections 1 Why Rust? and 2 Type Safety from [Why Rust?](https://www.oreilly.com/programming/free/files/why-rust.pdf).
 
-* 6 min: Watch [Rust and the Future of Systems Programming](https://www.youtube.com/watch?v=8EPsnf_ZYU0)
-* 20 min: Read through [Introduction - The Rust Programming Language](https://doc.rust-lang.org/stable/book/ch00-00-introduction.html)
-* 10 min: Read through the first and second secions of [Why Rust?](https://www.oreilly.com/programming/free/files/why-rust.pdf); Why Rust? and Type Safety.
-* 10 min: Readh through the introduction of [A Gentle Introduction To Rust](https://stevedonovan.github.io/rust-gentle-intro/readme.html)
-* 15 min: Checkout the Hello World example of [Rust By Example](https://doc.rust-lang.org/stable/rust-by-example/hello.html). Read 1.1 Comments but skip section 1.2 Formatted Print for now.
+* 📺 6 min: Watch [Rust and the Future of Systems Programming](https://www.youtube.com/watch?v=8EPsnf_ZYU0)
+* 📚 20 min: Read through [Introduction - The Rust Programming Language](https://doc.rust-lang.org/stable/book/ch00-00-introduction.html)
+* 📚 10 min: Read through the first and second secions of [Why Rust?](https://www.oreilly.com/programming/free/files/why-rust.pdf); Why Rust? and Type Safety.
+* 📚 10 min: Read through the introduction of [A Gentle Introduction To Rust](https://stevedonovan.github.io/rust-gentle-intro/readme.html)
+* 📚 15 min: Checkout the Hello World example of [Rust By Example](https://doc.rust-lang.org/stable/rust-by-example/hello.html). Read 1.1 Comments but skip section 1.2 Formatted Print for now.
 
 ### Day 3: Variables (~ 1 hour)
 Now we are actually about to write our first pieces of software. Let's get into it!
 
-* 25 min: Read [2. Programming a Guessing Game](https://doc.rust-lang.org/stable/book/ch02-00-guessing-game-tutorial.html) from [The Rust Programming Language](https://doc.rust-lang.org/stable/book/title-page.html)
-* 7 min: Read [3.1 Variables and Mutability](https://doc.rust-lang.org/stable/book/ch03-01-variables-and-mutability.html) from [The Rust Programming Language](https://doc.rust-lang.org/stable/book/title-page.html)
-* 10 min: Setup [Rustlings](https://github.com/fmoko/rustlings).
-* 15 min: Do exercises Variables1, through Variables 5 from the Rustlings Course
-* 2 min: Read about [constants](https://doc.rust-lang.org/stable/rust-by-example/custom_types/constants.html) in the [Rust By Example](https://doc.rust-lang.org/stable/rust-by-example/hello.html)
-* 2 min: Read about [constants](https://doc.rust-lang.org/stable/rust-by-example/custom_types/constants.html) in the [Rust By Example](https://doc.rust-lang.org/stable/rust-by-example/hello.html)
-* 5 min: Read all the sections of [Variable Bindings](https://doc.rust-lang.org/stable/rust-by-example/variable_bindings.html) from [Rust By Example](https://doc.rust-lang.org/stable/rust-by-example/hello.html)
+* 📚 25 min: Read [2. Programming a Guessing Game](https://doc.rust-lang.org/stable/book/ch02-00-guessing-game-tutorial.html) from [The Rust Programming Language](https://doc.rust-lang.org/stable/book/title-page.html)
+* 📚 7 min: Read [3.1 Variables and Mutability](https://doc.rust-lang.org/stable/book/ch03-01-variables-and-mutability.html) from [The Rust Programming Language](https://doc.rust-lang.org/stable/book/title-page.html)
+* 💻 10 min: Setup [Rustlings](https://github.com/fmoko/rustlings).
+* 💻 15 min: Do exercises Variables1, through Variables6 from the Rustlings Course
+* 📚 2 min: Read about [constants](https://doc.rust-lang.org/stable/rust-by-example/custom_types/constants.html) in the [Rust By Example](https://doc.rust-lang.org/stable/rust-by-example/hello.html)
+* 📚 2 min: Read about [constants](https://doc.rust-lang.org/stable/rust-by-example/custom_types/constants.html) in the [Rust By Example](https://doc.rust-lang.org/stable/rust-by-example/hello.html)
+* 📚 5 min: Read all the sections of [Variable Bindings](https://doc.rust-lang.org/stable/rust-by-example/variable_bindings.html) from [Rust By Example](https://doc.rust-lang.org/stable/rust-by-example/hello.html)
 
 ### Day 4: Types 
 * xx min: Read [3.2 Data Types](https://doc.rust-lang.org/stable/book/ch03-02-data-types.html) from [The Rust Programming Language](https://doc.rust-lang.org/stable/book/title-page.html)
