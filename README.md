@@ -8,7 +8,7 @@ Some of the days, there are extra material. This is for material that is either 
 This is our introduction to Rust. We will be watching a lot of video and we will be doing a bit of reading.
 Some smaller exercises will also pop up during this week.
 
-### Day 1: What is Rust? (~ 1 hour)
+### Week 1, Day 1: What is Rust? (~ 1 hour)
 So. For this first couple of days we will get to know a lot of things about Rust and we will get to travel 
 to different parts of Rust. Try to relax. It's important that you **don't try too hard to learn anything**. 
 Just sit back and try to enjoy it. Things will become more clear as we go. 
@@ -18,7 +18,7 @@ this material later on.
 
 * 📺 1h 3min: Watch [Considering Rust - Jon Gjengset](https://www.youtube.com/watch?v=DnT-LUQgc7s)
 
-### Day 2: Getting started (~ 1 hour)
+### Week 1, Day 2: Getting started (~ 1 hour)
 Time to get started. Start off by watching a short video on Rust. Then we continue reading through the introduction (section 1) [Introduction - The Rust Programming Language](https://doc.rust-lang.org/stable/book/ch00-00-introduction.html),
 this will have you create not one, but two Hello World! apps.
 We then do a bit more intro reading by reading pages sections 1 Why Rust? and 2 Type Safety from [Why Rust?](https://www.oreilly.com/programming/free/files/why-rust.pdf).
@@ -29,7 +29,7 @@ We then do a bit more intro reading by reading pages sections 1 Why Rust? and 2 
 * 📚 10 min: Read through the introduction of [A Gentle Introduction To Rust](https://stevedonovan.github.io/rust-gentle-intro/readme.html)
 * 📚 15 min: Checkout the Hello World example of [Rust By Example](https://doc.rust-lang.org/stable/rust-by-example/hello.html). Read 1.1 Comments but skip section 1.2 Formatted Print for now.
 
-### Day 3: Variables (~ 1 hour 10 minutes)
+### Week 1, Day 3: Variables (~ 1 hour 10 minutes)
 Now we are actually about to write our first pieces of software. Let's get into it!
 
 * 📚 25 min: Read [2. Programming a Guessing Game](https://doc.rust-lang.org/stable/book/ch02-00-guessing-game-tutorial.html) from [The Rust Programming Language](https://doc.rust-lang.org/stable/book/title-page.html)
@@ -40,7 +40,7 @@ Now we are actually about to write our first pieces of software. Let's get into 
 * 📚 2 min: Read about [constants](https://doc.rust-lang.org/stable/rust-by-example/custom_types/constants.html) in the [Rust By Example](https://doc.rust-lang.org/stable/rust-by-example)
 * 📚 5 min: Read all the sections of [Variable Bindings](https://doc.rust-lang.org/stable/rust-by-example/variable_bindings.html) from [Rust By Example](https://doc.rust-lang.org/stable/rust-by-example/hello.html)
 
-### Day 4: Types, Functions and flow control (~ 1 hour 30 minutes)
+### Week 1, Day 4: Types, Functions and flow control (~ 1 hour 30 minutes)
 * 📚 8 min: Read [3.2 Data Types](https://doc.rust-lang.org/stable/book/ch03-02-data-types.html) from [The Rust Programming Language](https://doc.rust-lang.org/stable/book/title-page.html)
 * 💻 5 min: Read all the sections of [2. Primitives](https://doc.rust-lang.org/stable/rust-by-example/primitives.html) from [Rust By Example](https://doc.rust-lang.org/stable/rust-by-example/primitives.html), skip the activity for section '2.2 Tuples' for now, we will get back to it.
 * 📚 8 min: Read [3.3 Functions](https://doc.rust-lang.org/stable/book/ch03-03-how-functions-work.html) from [The Rust Programming Language](https://doc.rust-lang.org/stable/book/title-page.html)
@@ -58,12 +58,55 @@ Now we are actually about to write our first pieces of software. Let's get into 
 All done? Great job! 🎉 
 If this took you three hours, rather than an hour and a half, don't worry about it. It's not a contest!
 
-### Day 5: Functions
-### Day 6: Control Flow
-### Day 7: Type to put it all together
-----
+### Week 1, Day 5: Ownership and borrowing
+### Week 1, Day 6: Ownership and borrowing continues
+### Week 1, Day 7: Structs, Slices and Strings
 
 
+## Upcoming
+### Let's write some code!
+### Enums and pattern matching
+### Pattern matching continued
+### More exercises
+### Packages, modules and crates
+### Error handling
+### Even more exercises!
+### Iterators
+### Traits
+### Generics
+### Lifetimes
+### Lifetimes continued
+### Automated tests
+### More exercises
+### Cargo and crates.io
+### Documentation
+### Contribute to Open Source
+### Closures and anonymous function
+### I/O
+### A bit bigger app
+### A bit bigger app continued
+### Box and the heap
+### References and pointers
+### More exercises
+### Macros
+### Threads and concurrency
+### Building a TCP/IP Server
+### Building a TCP/IP Server continued.
+### Channels
+### Async/Await
+### Regular expressions
+### JSON
+### Web-stuff
+### Serde
+### Building a REST Server
+### Building a REST Server continued.
+### More pattern matching
+### Unsafe
+### Unsafe continued
+### Advanced Traits
+### Python and Rust
+### C and Rust
+### C++ and Rust
 
 ## To be sorted
 When we have done structs:
