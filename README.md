@@ -29,7 +29,7 @@ We then do a bit more intro reading by reading pages sections 1 Why Rust? and 2 
 * 10 min: Readh through the introduction of [A Gentle Introduction To Rust](https://stevedonovan.github.io/rust-gentle-intro/readme.html)
 * 15 min: Checkout the Hello World example of [Rust By Example](https://doc.rust-lang.org/stable/rust-by-example/hello.html). Read 1.1 Comments but skip section 1.2 Formatted Print for now.
 
-### Day 3: Variables and types!
+### Day 3: Variables (~ 1 hour)
 Now we are actually about to write our first pieces of software. Let's get into it!
 
 * 25 min: Read [2. Programming a Guessing Game](https://doc.rust-lang.org/stable/book/ch02-00-guessing-game-tutorial.html) from [The Rust Programming Language](https://doc.rust-lang.org/stable/book/title-page.html)
@@ -38,7 +38,7 @@ Now we are actually about to write our first pieces of software. Let's get into 
 * 15 min: Do exercises Variables1, through Variables 5 from the Rustlings Course
 
 
-### Day 4: TBD 
+### Day 4: Types 
 * xx min: Read [3.2 Data Types](https://doc.rust-lang.org/stable/book/ch03-02-data-types.html) from [The Rust Programming Language](https://doc.rust-lang.org/stable/book/title-page.html)
 * xx min: Read [3.4 Comments](https://doc.rust-lang.org/stable/book/ch03-04-comments.html) from [The Rust Programming Language](https://doc.rust-lang.org/stable/book/title-page.html)
 * xx min: Read [1.1 Comments](https://doc.rust-lang.org/stable/rust-by-example/hello/comment.html) from [Rust By Example](https://doc.rust-lang.org/stable/rust-by-example/primitives.html)
