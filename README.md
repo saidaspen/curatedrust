@@ -73,51 +73,68 @@ Don't worry if you dont understand every detail in this video. We are heading in
 ### Week 1, Day 7: Ownership and borrowing
 
 ## Upcoming
-###
+### Exercises
 ### Structs, Slices and Strings
-### Let's write some code!
+### Exercises
 ### Enums and pattern matching
 ### Pattern matching continued
-### More exercises
+### Reading Code: Ripgrep
+### Exercises
 ### Packages, modules and crates
+### Exercises
 ### Error handling
-### Even more exercises!
 ### Iterators
+### Itertools
+### Itertools continued
 ### Traits
 ### Generics
 ### Lifetimes
 ### Lifetimes continued
+### Exercises
 ### Automated tests
-### More exercises
+### Exercises
 ### Cargo and crates.io
 ### Documentation
 ### Contribute to Open Source
-### Closures and anonymous function
+### Logging
 ### I/O
-### A bit bigger app
-### A bit bigger app continued
+### Creating a CLI Application
+### Closures and anonymous function
 ### Box and the heap
 ### References and pointers
-### More exercises
 ### Macros
 ### Threads and concurrency
-### Building a TCP/IP Server
-### Building a TCP/IP Server continued.
 ### Channels
 ### Async/Await
+### Async/Await continued.
+### Exercises
 ### Regular expressions
+### Reading code Regex
+### Building a TCP/IP Server
+### Building a TCP/IP Server continued.
 ### JSON
 ### Web-stuff
 ### Serde
 ### Building a REST Server
 ### Building a REST Server continued.
+### Building a Webserver
+### Rocket 1
+### Rocket 2
 ### More pattern matching
 ### Unsafe
 ### Unsafe continued
+### CSV Files
+### Reading code Ripgrep
+### Databases, postgres
+### Databases, redis
+### Reading code Diesel
 ### Advanced Traits
 ### Python and Rust
 ### C and Rust
 ### C++ and Rust
+### Java & Rust
+### A bit bigger app
+### A bit bigger app continued
 
 ## To be sorted
 When we have done structs:
