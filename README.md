@@ -29,45 +29,44 @@ We then do a bit more intro reading by reading pages sections 1 Why Rust? and 2 
 * 📚 10 min: Read through the introduction of [A Gentle Introduction To Rust](https://stevedonovan.github.io/rust-gentle-intro/readme.html)
 * 📚 15 min: Checkout the Hello World example of [Rust By Example](https://doc.rust-lang.org/stable/rust-by-example/hello.html). Read 1.1 Comments but skip section 1.2 Formatted Print for now.
 
-### Day 3: Variables (~ 1 hour)
+### Day 3: Variables (~ 1 hour 10 minutes)
 Now we are actually about to write our first pieces of software. Let's get into it!
 
 * 📚 25 min: Read [2. Programming a Guessing Game](https://doc.rust-lang.org/stable/book/ch02-00-guessing-game-tutorial.html) from [The Rust Programming Language](https://doc.rust-lang.org/stable/book/title-page.html)
+* 📚 10 min: While we are talking about random stuff anyway, head over to Rust Cookbook and read [Generate random numbers](https://rust-lang-nursery.github.io/rust-cookbook/algorithms/randomness.html#generate-random-numbers). Try to understand the code, but don't spend too much time digging into the details.
 * 📚 7 min: Read [3.1 Variables and Mutability](https://doc.rust-lang.org/stable/book/ch03-01-variables-and-mutability.html) from [The Rust Programming Language](https://doc.rust-lang.org/stable/book/title-page.html)
 * 💻 10 min: Setup [Rustlings](https://github.com/fmoko/rustlings).
-* 💻 15 min: Do exercises Variables1, through Variables6 from the Rustlings Course
-* 📚 2 min: Read about [constants](https://doc.rust-lang.org/stable/rust-by-example/custom_types/constants.html) in the [Rust By Example](https://doc.rust-lang.org/stable/rust-by-example/hello.html)
-* 📚 2 min: Read about [constants](https://doc.rust-lang.org/stable/rust-by-example/custom_types/constants.html) in the [Rust By Example](https://doc.rust-lang.org/stable/rust-by-example/hello.html)
+* 💻 15 min: Do exercises *variables1*, through *variables6* from the [Rustlings](https://github.com/fmoko/rustlings) Course
+* 📚 2 min: Read about [constants](https://doc.rust-lang.org/stable/rust-by-example/custom_types/constants.html) in the [Rust By Example](https://doc.rust-lang.org/stable/rust-by-example)
 * 📚 5 min: Read all the sections of [Variable Bindings](https://doc.rust-lang.org/stable/rust-by-example/variable_bindings.html) from [Rust By Example](https://doc.rust-lang.org/stable/rust-by-example/hello.html)
 
-### Day 4: Types 
-* xx min: Read [3.2 Data Types](https://doc.rust-lang.org/stable/book/ch03-02-data-types.html) from [The Rust Programming Language](https://doc.rust-lang.org/stable/book/title-page.html)
-* xx min: Read [3.4 Comments](https://doc.rust-lang.org/stable/book/ch03-04-comments.html) from [The Rust Programming Language](https://doc.rust-lang.org/stable/book/title-page.html)
-* xx min: Read [1.1 Comments](https://doc.rust-lang.org/stable/rust-by-example/hello/comment.html) from [Rust By Example](https://doc.rust-lang.org/stable/rust-by-example/primitives.html)
-* xx min: Read [1.2 Formatted Print](https://doc.rust-lang.org/stable/rust-by-example/hello/print.html) from [Rust By Example](https://doc.rust-lang.org/stable/rust-by-example/primitives.html)
-* xx min: Read [2. Primitives](https://doc.rust-lang.org/stable/rust-by-example/primitives.html) from [Rust By Example](https://doc.rust-lang.org/stable/rust-by-example/primitives.html)
-
+### Day 4: Types (~ 1 hour 30 minutes)
+* 📚 8 min: Read [3.2 Data Types](https://doc.rust-lang.org/stable/book/ch03-02-data-types.html) from [The Rust Programming Language](https://doc.rust-lang.org/stable/book/title-page.html)
+* 💻 5 min: Read all the sections of [2. Primitives](https://doc.rust-lang.org/stable/rust-by-example/primitives.html) from [Rust By Example](https://doc.rust-lang.org/stable/rust-by-example/primitives.html), skip the activity for section '2.2 Tuples' for now, we will get back to it.
+* 📚 8 min: Read [3.3 Functions](https://doc.rust-lang.org/stable/book/ch03-03-how-functions-work.html) from [The Rust Programming Language](https://doc.rust-lang.org/stable/book/title-page.html)
+* 📚 1 min: Read [7. Expressions](https://doc.rust-lang.org/stable/rust-by-example/expression.html) in the [Rust By Example](https://doc.rust-lang.org/stable/rust-by-example/primitives.html) 
+* 📚 1 min: Read [3.4 Comments](https://doc.rust-lang.org/stable/book/ch03-04-comments.html) from [The Rust Programming Language](https://doc.rust-lang.org/stable/book/title-page.html)
+* 📚 1 min: Read [1.1 Comments](https://doc.rust-lang.org/stable/rust-by-example/hello/comment.html) from [Rust By Example](https://doc.rust-lang.org/stable/rust-by-example/primitives.html)
+* 📚 10 min: Read [3.5 Control Flow](https://doc.rust-lang.org/stable/book/ch03-05-control-flow.html) from [The Rust Programming Language](https://doc.rust-lang.org/stable/book/title-page.html). Do not do the exercises at the very end, we will do them in a minute, but first read about control flow also in Rust By Example.
+* 💻 10 min: Read sections [8.1 if/else] (https://doc.rust-lang.org/stable/rust-by-example/flow_control/if_else.html) through [8.4 for and range](https://doc.rust-lang.org/stable/rust-by-example/flow_control/for.html) of [Rust By Example]. Go ahead and write up your own version of FizzBuzz!
+* Go back to to [the Summary of 3.5 Control Flow](https://doc.rust-lang.org/stable/book/ch03-05-control-flow.html#summary) and implement those three small programs:
+  - 💻 5 min: Convert temperatures between Fahrenheit and Celsius
+  - 💻 15 min: Generate the nth Fibonacci number
+  - 💻 15 min: Print the lyrics to the Christmas carol "The Twelve Days of Christmas"
+* 💻 15 min: Do [Rustlings](https://github.com/fmoko/rustlings) exercises *If1*, *functions1* through *functions5*, *test1* and *primitive_types1*, *primitive_types2*. Stop there, we will continue with *primitive_types3* later on.
 
 ### Day 5: Functions
 ### Day 6: Control Flow
 ### Day 7: Type to put it all together
-
-## Week 2: 
-
-### Day 1
-### Day 2
-### Day 3
-### Day 4
-### Day 5
-### Day 6
-### Day 7
-
-
 ----
 
 
 
 ## To be sorted
+When we have done structs:
+* 💻 min: Read [1.2 Formatted Print](https://doc.rust-lang.org/stable/rust-by-example/hello/print.html) from [Rust By Example](https://doc.rust-lang.org/stable/rust-by-example/primitives.html)
+
+
 Video about memory safety etc. 38 minutes. [A Case for Oxidation](https://www.youtube.com/watch?v=cDFSrVhnZKo)
 
 Video about ownership and borrowing. 1h.
