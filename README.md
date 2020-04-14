@@ -55,6 +55,9 @@ Now we are actually about to write our first pieces of software. Let's get into 
   - 💻 15 min: Print the lyrics to the Christmas carol "The Twelve Days of Christmas"
 * 💻 15 min: Do [Rustlings](https://github.com/fmoko/rustlings) exercises *If1*, *functions1* through *functions5*, *test1* and *primitive_types1*, *primitive_types2*. Stop there, we will continue with *primitive_types3* later on.
 
+All done? Great job! 🎉 
+If this took you three hours, rather than an hour and a half, don't worry about it. It's not a contest!
+
 ### Day 5: Functions
 ### Day 6: Control Flow
 ### Day 7: Type to put it all together
