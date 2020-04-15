@@ -48,7 +48,7 @@ Now we are actually about to write our first pieces of software. Let's get into 
 * 📚 1 min: Read [3.4 Comments](https://doc.rust-lang.org/stable/book/ch03-04-comments.html) from [The Rust Programming Language](https://doc.rust-lang.org/stable/book/title-page.html)
 * 📚 1 min: Read [1.1 Comments](https://doc.rust-lang.org/stable/rust-by-example/hello/comment.html) from [Rust By Example](https://doc.rust-lang.org/stable/rust-by-example/primitives.html)
 * 📚 10 min: Read [3.5 Control Flow](https://doc.rust-lang.org/stable/book/ch03-05-control-flow.html) from [The Rust Programming Language](https://doc.rust-lang.org/stable/book/title-page.html). Do not do the exercises at the very end, we will do them in a minute, but first read about control flow also in Rust By Example.
-* 💻 10 min: Read sections [8.1 if/else](https://doc.rust-lang.org/stable/rust-by-example/flow_control/if_else.html) through [8.4 for and range](https://doc.rust-lang.org/stable/rust-by-example/flow_control/for.html) of [Rust By Example]. Go ahead and write up your own version of FizzBuzz!
+* 💻 10 min: Read sections [8.1 if/else](https://doc.rust-lang.org/stable/rust-by-example/flow_control/if_else.html) through [8.4 for and range](https://doc.rust-lang.org/stable/rust-by-example/flow_control/for.html) of [Rust By Example](https://doc.rust-lang.org/stable/rust-by-example/primitives.html). Go ahead and write up your own version of FizzBuzz!
 * Go back to to [the Summary of 3.5 Control Flow](https://doc.rust-lang.org/stable/book/ch03-05-control-flow.html#summary) and implement those three small programs:
   - 💻 5 min: Convert temperatures between Fahrenheit and Celsius
   - 💻 15 min: Generate the nth Fibonacci number
@@ -71,7 +71,15 @@ Don't worry if you dont understand every detail in this video. We are heading in
 * 📺 40 min: Watch [A Case for Oxidation: The Rust Programming Language - Sergio Benitez](https://www.youtube.com/watch?v=cDFSrVhnZKo)
 
 ### Week 1, Day 7: Ownership and borrowing
-
+Take your time while reading these next chaptsers. They are truly fundamental and the more time you put into understanding these concepts now, the easier it will be later on.
+* 📚 20 min: Read [4.1 What is Ownership?](https://doc.rust-lang.org/stable/book/ch04-01-what-is-ownership.html) from [The Rust Programming Language](https://doc.rust-lang.org/stable/book/title-page.html).
+* 📚 10 min: Read [4.2 What is Ownership?](https://doc.rust-lang.org/stable/book/ch04-02-references-and-borrowing.html) from [The Rust Programming Language](https://doc.rust-lang.org/stable/book/title-page.html).
+* 📚 10 min: Read [4.3 The Slice Type](https://doc.rust-lang.org/stable/book/ch04-03-slices.html) from [The Rust Programming Language](https://doc.rust-lang.org/stable/book/title-page.html).
+* Read the same material from [Rust By Example](https://doc.rust-lang.org/stable/rust-by-example/primitives.html), please note that we are skipping 15.4 Lifetimes for now, we'll get back to it.
+  - 📚 1 min: [15. Scoping rules](https://doc.rust-lang.org/stable/rust-by-example/scope.html)
+  - 📚 3 min: [15.1 RAII](https://doc.rust-lang.org/stable/rust-by-example/scope/raii.html)
+  - 📚 2 min: [15.2 Ownership and moves](https://doc.rust-lang.org/stable/rust-by-example/scope/move.html)
+  - 📚 3 min: [15.3 Borrowing](https://doc.rust-lang.org/stable/rust-by-example/scope/borrow.html)
 ## Upcoming
 ### Exercises
 ### Structs, Slices and Strings
