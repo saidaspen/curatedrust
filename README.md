@@ -1,12 +1,13 @@
 # Curated Rust
-This is a list of resources that I used to learn Rust. It is being added to incrementally as I myself learn rust over the next couple of months and weeks.
+This is a guided walkthrough of the resources that I used to learn Rust. It is being added to incrementally as I myself learn rust over the next couple of weeks and months.
 
 Some of the days, there are extra material. This is for material that is either not free, material that does not add anything new
 , or only elaborated on previously covered topics.
 
 ## Week 1: Introduction and getting started
-This is our introduction to Rust. We will be watching a lot of video and we will be doing a bit of reading.
-Some smaller exercises will also pop up during this week.
+This is our introduction to Rust. It will cover a lot of the fundamentals of Rust and when this week is behind us, we will already be able to start writing software. 
+During this week we will be watching a lot of video and we will be doing quite a bit of reading.
+Some smaller exercises will also pop up during this week so get ready to code!
 
 ### Week 1, Day 1: What is Rust? (~ 1 hour)
 So. For this first couple of days we will get to know a lot of things about Rust and we will get to travel 
@@ -64,13 +65,13 @@ We start off by looking at two presentations. I know, sometimes its hard co stay
 
 * 📺 1h: Watch [What Is Rust? - Yehuda Katz](https://www.infoq.com/presentations/rust-gc/)
 
-### Week 1, Day 6: Even more video!
+### Week 1, Day 6: Even more video! (~ 40 min)
 Bring out the popcorn, another video, just as promised yesterday!
 Don't worry if you dont understand every detail in this video. We are heading into a part of rust that many find quite confusion and hard, namely Ownership and Borrowing. These two videos; the one you watched yesterday, and the one you will be watching now, will set you up to better understand the material to come. We will be taking a couple of days to go over this area, as it is quite advanced, but also very fundamental.
 
 * 📺 40 min: Watch [A Case for Oxidation: The Rust Programming Language - Sergio Benitez](https://www.youtube.com/watch?v=cDFSrVhnZKo)
 
-### Week 1, Day 7: Ownership and borrowing
+### Week 1, Day 7: Ownership and borrowing (~ 1 hour)
 Take your time while reading these next chaptsers. They are truly fundamental and the more time you put into understanding these concepts now, the easier it will be later on.
 * 📚 20 min: Read [4.1 What is Ownership?](https://doc.rust-lang.org/stable/book/ch04-01-what-is-ownership.html) from [The Rust Programming Language](https://doc.rust-lang.org/stable/book/title-page.html).
 * 📚 10 min: Read [4.2 What is Ownership?](https://doc.rust-lang.org/stable/book/ch04-02-references-and-borrowing.html) from [The Rust Programming Language](https://doc.rust-lang.org/stable/book/title-page.html).
@@ -80,6 +81,11 @@ Take your time while reading these next chaptsers. They are truly fundamental an
   - 📚 3 min: [15.1 RAII](https://doc.rust-lang.org/stable/rust-by-example/scope/raii.html)
   - 📚 2 min: [15.2 Ownership and moves](https://doc.rust-lang.org/stable/rust-by-example/scope/move.html)
   - 📚 3 min: [15.3 Borrowing](https://doc.rust-lang.org/stable/rust-by-example/scope/borrow.html)
+* 💻 10 min: Do [Rustlings](https://github.com/fmoko/rustlings) exercises *primitive_types4*, *primitive_types5* and *primitive_types6*.
+
+#### 👑 Extra
+* 💻 15 min: Do the Raindrops exercise on [Exercism](https://exercism.io/)
+
 ## Upcoming
 ### Exercises
 ### Structs, Slices and Strings
