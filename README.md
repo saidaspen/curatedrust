@@ -89,7 +89,20 @@ Take your time while reading these next chaptsers. They are truly fundamental an
 * 📰 10 min: [Rust ownership, the hard way](https://chrismorgan.info/blog/rust-ownership-the-hard-way/)
 
 ## Week 2: It's getting more advanced
-### Week 2, Day 1: Nothing new just plain programming
+Good job! We have not gotten through the first week of Rust. We have learned the basics and also written some code. 
+Since last week ended with us watching a bunch of video, we will start this week off by doing some programming.
+
+### Week 2, Day 1: Nothing new just plain programming (~ 1 hour)
+No new content today. Instead we will just do a couple of programming exercises to get us more comfortable writing actual code.
+* 💻 5 min: Do Euler problem 1 [Project Euler problem 1](https://projecteuler.net/problem=1)
+* 💻 5 min: Do Euler problem 2 [Project Euler problem 2](https://projecteuler.net/problem=2)
+* 💻 10 min: Euler problem 3 [Project Euler problem 3](https://projecteuler.net/problem=3)
+* 💻 20 min: Do the problem called Matching Brackets on [Exercism](https://exercism.io/)
+* 💻 20 min: Do the problem called Proverb on [Exercism](https://exercism.io/)
+
+#### 👑 Extra
+If you have more time keep doing project Euler challenges. Wait a bit with doing more of the Exercism exercises, we will learn some other Rust features, such as pattern matching, enums and structs, that will help you do those challenges later.
+
 ### Week 2, Day 2: Structs and methods
 ### Week 2, Day 3: Enums and Pattern Matching
 ### Week 2, Day 4: More Pattern Matching
