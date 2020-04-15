@@ -85,6 +85,8 @@ Take your time while reading these next chaptsers. They are truly fundamental an
 
 #### 👑 Extra
 * 💻 15 min: Do the Raindrops exercise on [Exercism](https://exercism.io/)
+* 📺 8 min: Watch [Learning Rust: Memory, Ownership and Borrowing](https://www.youtube.com/watch?v=8M0QfLUDaaA)
+* 📰 10 min: [Rust ownership, the hard way](https://chrismorgan.info/blog/rust-ownership-the-hard-way/)
 
 ## Upcoming
 ### Exercises
@@ -154,6 +156,9 @@ Take your time while reading these next chaptsers. They are truly fundamental an
 When we have done structs:
 * 💻 min: Read [1.2 Formatted Print](https://doc.rust-lang.org/stable/rust-by-example/hello/print.html) from [Rust By Example](https://doc.rust-lang.org/stable/rust-by-example/primitives.html)
 
+https://gist.github.com/brson/a324c83a6af6a8a78dfaa9d33eb9b48e
+
+https://techyaks.com/rust-all-ldconf.html
 
 Video about memory safety etc. 38 minutes. [A Case for Oxidation](https://www.youtube.com/watch?v=cDFSrVhnZKo)
 
