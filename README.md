@@ -88,57 +88,84 @@ Take your time while reading these next chaptsers. They are truly fundamental an
 * 📺 8 min: Watch [Learning Rust: Memory, Ownership and Borrowing](https://www.youtube.com/watch?v=8M0QfLUDaaA)
 * 📰 10 min: [Rust ownership, the hard way](https://chrismorgan.info/blog/rust-ownership-the-hard-way/)
 
+## Week 2: It's getting more advanced
+### Week 2, Day 1: Nothing new just plain programming
+### Week 2, Day 2: Structs and methods
+### Week 2, Day 3: Enums and Pattern Matching
+### Week 2, Day 4: More Pattern Matching
+### Week 2, Day 5: Modules, packages, cargo and crates
+### Week 2, Day 5: Reading the documentation
+### Week 2, Day 7: More coding
+
+## Week 3: More fundamental stuff
+### Week 3, Day 1: Collections
+### Week 3, Day 2: Error handling
+### Week 3, Day 3: Generics and Traits
+### Week 3, Day 4: Generics and Traits continued
+### Week 3, Day 5: Iterators and itertools
+### Week 3, Day 6: Exercises
+### Week 3, Day 7: Exercises
+
+## Week 4: Lifetimes and I/O
+### Week 4, Day 1: Lifetimes
+### Week 4, Day 2: Lifetimes continued
+### Week 4, Day 3: I/O and Tokio
+### Week 4, Day 4: Filesystem and Processes
+### Week 4, Day 5: The I/O Project
+### Week 4, Day 6: Understanding Ripgrep
+### Week 4, Day 7: Automated testing
+
+## Week 5: Cleaning up
+### Week 5, Day 1: Building something useful
+### Week 5, Day 2: Building something useful
+### Week 5, Day 3: Building something useful
+### Week 5, Day 4: Building something useful
+### Week 5, Day 5: Rust as a functional language
+### Week 5, Day 6: Box, heap and pointers
+### Week 5, Day 7: Macros
+
+## Week 6: Concurrency and networking 
+### Week 6, Day 1: Threads and concurrency
+### Week 6, Day 2: Channels
+### Week 6, Day 3: Networking
+### Week 6, Day 4: Building a TCP/IP Server
+### Week 6, Day 5: Building a TCP/IP Server continued.
+### Week 6, Day 6: Async/Await
+### Week 6, Day 7: Async/Await continued.
+
+## Week 7: 
+### Week 7, Day 1: Threads and concurrency
+### Week 7, Day 2: Channels
+### Week 7, Day 3: Networking
+### Week 7, Day 4: Building a TCP/IP Server
+### Week 7, Day 5: Building a TCP/IP Server continued.
+### Week 7, Day 6: Async/Await
+### Week 7, Day 7: Async/Await continued.
+
+
+## Week 8: Web stuff
+### Week 8, Day 1: Serialization and deserialization with JSON
+### Week 8, Day 2: Serde
+### Week 8, Day 3: Web-stuff
+### Week 8, Day 4: Building a Web Server
+### Week 8, Day 5: Building a Web Server continued.
+### Week 8, Day 6: Introduction to WASM
+### Week 8, Day 7: WASM continued.
+
+## Week 9: Unsafe and interoperability
+### Week 9, Day 1: Unsafe 
+### Week 9, Day 2: Unsafe continued
+### Week 9, Day 3: 
+### Week 9, Day 4: 
+### Week 9, Day 5: 
+### Week 9, Day 6: 
+### Week 9, Day 7: 
+
 ## Upcoming
-### Exercises
-### Structs, Slices and Strings
-### Exercises
-### Enums and pattern matching
-### Pattern matching continued
-### Reading Code: Ripgrep
-### Exercises
-### Packages, modules and crates
-### Exercises
-### Error handling
-### Iterators
-### Itertools
-### Itertools continued
-### Traits
-### Generics
-### Lifetimes
-### Lifetimes continued
-### Exercises
-### Automated tests
-### Exercises
-### Cargo and crates.io
-### Documentation
-### Contribute to Open Source
-### Logging
-### I/O
-### Creating a CLI Application
-### Closures and anonymous function
-### Box and the heap
-### References and pointers
-### Macros
-### Threads and concurrency
-### Channels
-### Async/Await
-### Async/Await continued.
-### Exercises
 ### Regular expressions
 ### Reading code Regex
-### Building a TCP/IP Server
-### Building a TCP/IP Server continued.
-### JSON
-### Web-stuff
-### Serde
-### Building a REST Server
-### Building a REST Server continued.
-### Building a Webserver
 ### Rocket 1
 ### Rocket 2
-### More pattern matching
-### Unsafe
-### Unsafe continued
 ### CSV Files
 ### Reading code Ripgrep
 ### Databases, postgres
