@@ -103,6 +103,8 @@ If you have more time keep doing project Euler challenges. Wait a bit with doing
 
 ### Week 2, Day 2: Structs and methods
 ### Week 2, Day 3: Enums and Pattern Matching
+* - 📚 ?? min: Read all the sections of [Enums and Pattern Matching](https://doc.rust-lang.org/book/ch06-00-enums.html) from [The Rust Programming Language](https://doc.rust-lang.org/book/title-page.html)
+
 ### Week 2, Day 4: More Pattern Matching
 ### Week 2, Day 5: Modules, packages, cargo and crates
 ### Week 2, Day 5: Reading the documentation
