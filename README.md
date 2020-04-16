@@ -101,9 +101,17 @@ No new content today. Instead we will just do a couple of programming exercises 
 #### 👑 Extra
 If you have more time keep doing project Euler challenges. Wait a bit with doing more of the Exercism exercises, we will learn some other Rust features, such as pattern matching, enums and structs, that will help you do those challenges later.
 
-### Week 2, Day 2: Structs and methods
+### Week 2, Day 2: Structs and methods (~ 1 hour)
+* 📚💻 25 min: Read all the sections of [5. Using Structs to Structure Related Data](https://doc.rust-lang.org/stable/book/ch05-00-structs.html) from [The Rust Programming Language](https://doc.rust-lang.org/stable/book/title-page.html). Follow along by writing the code yourself.
+* 📚 5 min: Read [3.1 Structures](https://doc.rust-lang.org/stable/rust-by-example/custom_types/structs.html) in [Rust By Example] (https://doc.rust-lang.org/stable/rust-by-example/index.html)
+* 📚 5 min: Read [9.1 Methods](https://doc.rust-lang.org/stable/rust-by-example/fn/methods.html) in [Rust By Example] (https://doc.rust-lang.org/stable/rust-by-example/index.html)
+* 💻 30 min: Do [Rustlings](https://github.com/fmoko/rustlings) exercises *structs1*, *structs2*, *strings1*, *strings2* and *test2*.
+
+We will get back to more about structs very soon. So, if you have not fully wrapped your head around all of this, don't worry.
+
 ### Week 2, Day 3: Enums and Pattern Matching
-* - 📚 ?? min: Read all the sections of [Enums and Pattern Matching](https://doc.rust-lang.org/book/ch06-00-enums.html) from [The Rust Programming Language](https://doc.rust-lang.org/book/title-page.html)
+* 📚 ?? min: Read all the sections of [Enums and Pattern Matching](https://doc.rust-lang.org/book/ch06-00-enums.html) from [The Rust Programming Language](https://doc.rust-lang.org/book/title-page.html)
+
 
 ### Week 2, Day 4: More Pattern Matching
 ### Week 2, Day 5: Modules, packages, cargo and crates
