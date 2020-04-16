@@ -87,6 +87,7 @@ Take your time while reading these next chaptsers. They are truly fundamental an
 * 💻 15 min: Do the Raindrops exercise on [Exercism](https://exercism.io/)
 * 📺 8 min: Watch [Learning Rust: Memory, Ownership and Borrowing](https://www.youtube.com/watch?v=8M0QfLUDaaA)
 * 📰 10 min: [Rust ownership, the hard way](https://chrismorgan.info/blog/rust-ownership-the-hard-way/)
+* 📰 10min: [A closer look at Ownership in Rust](https://blog.thoughtram.io/ownership-in-rust/)
 
 ## Week 2: It's getting more advanced
 Good job! We have not gotten through the first week of Rust. We have learned the basics and also written some code. 
@@ -111,7 +112,6 @@ We will get back to more about structs very soon. So, if you have not fully wrap
 
 ### Week 2, Day 3: Enums and Pattern Matching
 * 📚 ?? min: Read all the sections of [Enums and Pattern Matching](https://doc.rust-lang.org/book/ch06-00-enums.html) from [The Rust Programming Language](https://doc.rust-lang.org/book/title-page.html)
-
 
 ### Week 2, Day 4: More Pattern Matching
 ### Week 2, Day 5: Modules, packages, cargo and crates
