@@ -104,10 +104,11 @@ No new content today. Instead we will just do a couple of programming exercises 
 #### 👑 Extra
 If you have more time keep doing project Euler challenges. Wait a bit with doing more of the Exercism exercises, we will learn some other Rust features, such as pattern matching, enums and structs, that will help you do those challenges later.
 
-### Week 2, Day 2: Structs and methods (~ 1 hour)
+### Week 2, Day 2: Structs, methods and strings (~ 1 hour, 20min)
 * 📚💻 25 min: Read all the sections of [5. Using Structs to Structure Related Data](https://doc.rust-lang.org/stable/book/ch05-00-structs.html) from [The Rust Programming Language](https://doc.rust-lang.org/stable/book/title-page.html). Follow along by writing the code yourself.
-* 📚 5 min: Read [3.1 Structures](https://doc.rust-lang.org/stable/rust-by-example/custom_types/structs.html) in [Rust By Example] (https://doc.rust-lang.org/stable/rust-by-example/index.html)
-* 📚 5 min: Read [9.1 Methods](https://doc.rust-lang.org/stable/rust-by-example/fn/methods.html) in [Rust By Example] (https://doc.rust-lang.org/stable/rust-by-example/index.html)
+* 📚 15 min: Read section [8.2. Storing UTF-8 Encoded Text with Strings](https://doc.rust-lang.org/stable/book/ch08-02-strings.html) from [The Rust Programming Language](https://doc.rust-lang.org/stable/book/title-page.html). Don't worry about the references to *vec*, we will get to it soon.
+* 📚 5 min: Read [3.1 Structures](https://doc.rust-lang.org/stable/rust-by-example/custom_types/structs.html) in [Rust By Example](https://doc.rust-lang.org/stable/rust-by-example/index.html)
+* 📚 5 min: Read [9.1 Methods](https://doc.rust-lang.org/stable/rust-by-example/fn/methods.html) in [Rust By Example](https://doc.rust-lang.org/stable/rust-by-example/index.html)
 * 💻 30 min: Do [Rustlings](https://github.com/fmoko/rustlings) exercises *structs1*, *structs2*, *strings1*, *strings2* and *test2*.
 
 We will get back to more about structs very soon. So, if you have not fully wrapped your head around all of this, don't worry.
@@ -118,7 +119,16 @@ We will get back to more about structs very soon. So, if you have not fully wrap
 * 📰 15 min: Read [Mixing matching, mutation, and moves in Rust](https://blog.rust-lang.org/2015/04/17/Enums-match-mutation-and-moves.html). Don't worry if you don't understand it all. It's quite a though read!
 * 💻 30 min: Do the *Leap* and the *Matching Brackets* exercises on [Exercism](https://exercism.io/)
 
-### Week 2, Day 4: Collections
+### Week 2, Day 4: Collections and formatting (~ 1 hour, 20min)
+* 📚 10 min: Read [8.1 Storing Lists of Values with Vectors](https://doc.rust-lang.org/stable/book/ch08-01-vectors.html) from [The Rust Programming Language](https://doc.rust-lang.org/book/title-page.html)
+* 📚 5 min: Read [8.3 Storing Keys with Associated Values in Hash Maps](https://doc.rust-lang.org/stable/book/ch08-03-hash-maps.html) form [The Rust Programming Language](https://doc.rust-lang.org/book/title-page.html)
+* 📚 15 min: Read [1.2 Formatted Print](https://doc.rust-lang.org/stable/rust-by-example/hello/print.html) from [Rust By Example](https://doc.rust-lang.org/stable/rust-by-example/primitives.html)
+
+Now on to two exercises. They do not directly related to the topics of the day, but practicing writing code is valuable. You should have the tools to solve them.
+
+* 💻 20 min: Do the *Robot Simulator* exercise on [Exercism](https://exercism.io/)
+* 💻 30 min: Do the *Binary Search* exercise on [Exercism](https://exercism.io/)
+ 
 ### Week 2, Day 5: Error Handling
 ### Week 2, Day 5: Generic Types, Traits and Lifetimes
 ### Week 2, Day 7: Iterators and closures
@@ -213,7 +223,6 @@ Again, as usual, don't worry too much if you dont understand all the details. So
 
 ## To be sorted
 When we have done structs:
-* 💻 min: Read [1.2 Formatted Print](https://doc.rust-lang.org/stable/rust-by-example/hello/print.html) from [Rust By Example](https://doc.rust-lang.org/stable/rust-by-example/primitives.html)
 
 https://gist.github.com/brson/a324c83a6af6a8a78dfaa9d33eb9b48e
 
