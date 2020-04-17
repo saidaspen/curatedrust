@@ -84,7 +84,7 @@ Take your time while reading these next chaptsers. They are truly fundamental an
 * 💻 10 min: Do [Rustlings](https://github.com/fmoko/rustlings) exercises *primitive_types4*, *primitive_types5* and *primitive_types6*.
 
 #### 👑 Extra
-* 💻 15 min: Do the Raindrops exercise on [Exercism](https://exercism.io/)
+* 💻 15 min: Do the *Raindrops* exercise on [Exercism](https://exercism.io/)
 * 📺 8 min: Watch [Learning Rust: Memory, Ownership and Borrowing](https://www.youtube.com/watch?v=8M0QfLUDaaA)
 * 📰 10 min: [Rust ownership, the hard way](https://chrismorgan.info/blog/rust-ownership-the-hard-way/)
 * 📰 10min: [A closer look at Ownership in Rust](https://blog.thoughtram.io/ownership-in-rust/)
@@ -92,6 +92,8 @@ Take your time while reading these next chaptsers. They are truly fundamental an
 ## Week 2: It's getting more advanced
 Good job! We have not gotten through the first week of Rust. We have learned the basics and also written some code. 
 Since last week ended with us watching a bunch of video, we will start this week off by doing some programming.
+
+After the short break of Day 1, we will try to rush ahead a bit. Some of the areas won't make sense until you are through them all. Therefore we want to get through the more advanced subjects of Structs, Enums, Pattern matching, error handling, iterators and collections pretty quickly only to circle back and go over them all again.
 
 ### Week 2, Day 1: Nothing new just plain programming (~ 1 hour, 10 min)
 No new content today. Instead we will just do a couple of programming exercises to get us more comfortable writing actual code.
@@ -110,8 +112,11 @@ If you have more time keep doing project Euler challenges. Wait a bit with doing
 
 We will get back to more about structs very soon. So, if you have not fully wrapped your head around all of this, don't worry.
 
-### Week 2, Day 3: Enums and Pattern Matching
-* 📚 ?? min: Read all the sections of [Enums and Pattern Matching](https://doc.rust-lang.org/book/ch06-00-enums.html) from [The Rust Programming Language](https://doc.rust-lang.org/book/title-page.html)
+### Week 2, Day 3: Enums and Pattern Matching (~ 1 hour, 20min)
+* 📚 15 min: Read all the sections of [Enums and Pattern Matching](https://doc.rust-lang.org/book/ch06-00-enums.html) from [The Rust Programming Language](https://doc.rust-lang.org/book/title-page.html)
+* 💻 20 min: Do [Rustlings](https://github.com/fmoko/rustlings) exercises *enums1*, *enums2* and *enums3*.
+* 📰 15 min: Read [Mixing matching, mutation, and moves in Rust](https://blog.rust-lang.org/2015/04/17/Enums-match-mutation-and-moves.html). Don't worry if you don't understand it all. It's quite a though read!
+* 💻 30 min: Do the *Leap* and the *Matching Brackets* exercises on [Exercism](https://exercism.io/)
 
 ### Week 2, Day 4: More Pattern Matching
 ### Week 2, Day 5: Modules, packages, cargo and crates
