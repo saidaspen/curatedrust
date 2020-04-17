@@ -124,10 +124,10 @@ We will get back to more about structs very soon. So, if you have not fully wrap
 ### Week 2, Day 7: Iterators and closures
 
 ## Week 3: More fundamental stuff 
-### Week 3, Day 1: Taking a breather.(~ 1 hour, 30min)
+### Week 3, Day 1: Taking a breather (~ 1 hour, 30min)
 Today we will sit back and watch video again. Bring out the popcorn.
 Again, as usual, don't worry too much if you dont understand all the details. Some of the things covered in this video are things we have yet to encounter in our reading.
-* 📺 8 min: Watch [Rust Programming Techniques](https://www.youtube.com/watch?v=vqavdUGKeb4). 
+* 📺 1h 32min: Watch [Rust Programming Techniques](https://www.youtube.com/watch?v=vqavdUGKeb4). 
 
 ### Week 3, Day 2: Itertools
 ### Week 3, Day 3: Coding!
