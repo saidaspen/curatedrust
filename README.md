@@ -118,23 +118,23 @@ We will get back to more about structs very soon. So, if you have not fully wrap
 * 📰 15 min: Read [Mixing matching, mutation, and moves in Rust](https://blog.rust-lang.org/2015/04/17/Enums-match-mutation-and-moves.html). Don't worry if you don't understand it all. It's quite a though read!
 * 💻 30 min: Do the *Leap* and the *Matching Brackets* exercises on [Exercism](https://exercism.io/)
 
-### Week 2, Day 4: More Pattern Matching
-### Week 2, Day 5: Modules, packages, cargo and crates
-### Week 2, Day 5: Reading the documentation
-### Week 2, Day 7: More coding
+### Week 2, Day 4: Collections
+### Week 2, Day 5: Error Handling
+### Week 2, Day 5: Generic Types, Traits and Lifetimes
+### Week 2, Day 7: Iterators and closures
 
 ## Week 3: More fundamental stuff
-### Week 3, Day 1: Collections
-### Week 3, Day 2: Error handling
-### Week 3, Day 3: Generics and Traits
-### Week 3, Day 4: Generics and Traits continued
-### Week 3, Day 5: Iterators and itertools
-### Week 3, Day 6: Exercises
-### Week 3, Day 7: Exercises
+### Week 3, Day 1: Recap
+### Week 3, Day 2: Itertools
+### Week 3, Day 3: Coding!
+### Week 3, Day 4: 
+### Week 3, Day 5: 
+### Week 3, Day 6: 
+### Week 3, Day 7: 
 
-## Week 4: Lifetimes and I/O
-### Week 4, Day 1: Lifetimes
-### Week 4, Day 2: Lifetimes continued
+## Week 4: I/O
+### Week 4, Day 1: 
+### Week 4, Day 2: 
 ### Week 4, Day 3: I/O and Tokio
 ### Week 4, Day 4: Filesystem and Processes
 ### Week 4, Day 5: The I/O Project
@@ -142,11 +142,11 @@ We will get back to more about structs very soon. So, if you have not fully wrap
 ### Week 4, Day 7: Automated testing
 
 ## Week 5: Cleaning up
-### Week 5, Day 1: Building something useful
-### Week 5, Day 2: Building something useful
-### Week 5, Day 3: Building something useful
-### Week 5, Day 4: Building something useful
-### Week 5, Day 5: Rust as a functional language
+### Week 5, Day 1: 
+### Week 5, Day 2: 
+### Week 5, Day 3: 
+### Week 5, Day 4: 
+### Week 5, Day 5: 
 ### Week 5, Day 6: Box, heap and pointers
 ### Week 5, Day 7: Macros
 
@@ -188,6 +188,8 @@ We will get back to more about structs very soon. So, if you have not fully wrap
 ### Week 9, Day 7: 
 
 ## Upcoming
+### Reading the documentation
+### Modules, packages, cargo and crates
 ### Regular expressions
 ### Reading code Regex
 ### Rocket 1
