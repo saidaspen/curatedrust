@@ -19,7 +19,7 @@ this material later on.
 
 * 📺 1h 3min: Watch [Considering Rust - Jon Gjengset](https://www.youtube.com/watch?v=DnT-LUQgc7s)
 
-### Week 1, Day 2: Getting started (~ 1 hour, 15 min)
+### Week 1, Day 2: Getting started (~ 1 hour)
 Time to get started. Start off by watching a short video on Rust. Then we continue reading through the introduction (section 1) [Introduction - The Rust Programming Language](https://doc.rust-lang.org/stable/book/ch00-00-introduction.html),
 this will have you create not one, but two Hello World! apps.
 We then do a bit more intro reading by reading pages sections 1 Why Rust? and 2 Type Safety from [Why Rust?](https://www.oreilly.com/programming/free/files/why-rust.pdf).
@@ -29,7 +29,9 @@ We then do a bit more intro reading by reading pages sections 1 Why Rust? and 2 
 * 📚 10 min: Read through the first and second sections of [Why Rust?](https://www.oreilly.com/programming/free/files/why-rust.pdf); Why Rust? and Type Safety.
 * 📚 10 min: Read through the introduction of [A Gentle Introduction To Rust](https://stevedonovan.github.io/rust-gentle-intro/readme.html)
 * 📚 15 min: Checkout the Hello World example of [Rust By Example](https://doc.rust-lang.org/stable/rust-by-example/hello.html). Read 1.1 Comments but skip section 1.2 Formatted Print for now.
-* 📰 15 min: Read [Understanding Over Guesswork](https://hoverbear.org/blog/understand-over-guesswork/) from [Hoverbear](https://hoverbear.org), a great read and overview of Rust.
+
+#### 👑 Extra
+* 📰 15 min: Read [Understanding Over Guesswork](https://hoverbear.org/blog/understand-over-guesswork/) from [Hoverbear](https://hoverbear.org), a great read and overview of Rust. It has a lot of content that we are unfamiliar with, so try to mainly get the gist of it.
 
 
 ### Week 1, Day 3: Variables (~ 1 hour 10 minutes)
@@ -44,7 +46,7 @@ Now we are actually about to write our first pieces of software. Let's get into 
 * 📚 5 min: Read all the sections of [Variable Bindings](https://doc.rust-lang.org/stable/rust-by-example/variable_bindings.html) from [Rust By Example](https://doc.rust-lang.org/stable/rust-by-example/hello.html)
 
 #### 👑 Extra
-* 📰 15 min: Read [Stability as a Deliverable](https://blog.rust-lang.org/2014/10/30/Stability.html)
+* 📰 15 min: Read [Stability as a Deliverable](https://blog.rust-lang.org/2014/10/30/Stability.html). It was a blog post made at the 1.0 release of Rust and gives you an idea about how the Rust project works.
  
 ### Week 1, Day 4: Types, Functions and flow control (~ 1 hour 30 minutes)
 * 📚 8 min: Read [3.2 Data Types](https://doc.rust-lang.org/stable/book/ch03-02-data-types.html) from [The Rust Programming Language](https://doc.rust-lang.org/stable/book/title-page.html)
@@ -71,7 +73,7 @@ We start off by looking at two presentations. I know, sometimes it's hard co sta
 * 📺 1h: Watch [What Is Rust? - Yehuda Katz](https://www.infoq.com/presentations/rust-gc/)
 
 #### 👑 Extra
-* 📰 10 min: Read [Rust is more than safety](https://words.steveklabnik.com/rust-is-more-than-safety)
+* 📰 10 min: Read [Rust is more than safety](https://words.steveklabnik.com/rust-is-more-than-safety). This blog post caused quite the stir and there was several followups to it. Read one of them next.
 * 📰 10 min: Read [Rust is mostly safety](http://graydon2.dreamwidth.org/247406.html)
 
 ### Week 1, Day 6: Even more video! (~ 40 min)
@@ -82,8 +84,9 @@ Don't worry if you don't understand every detail in this video. We are heading i
 
 ### Week 1, Day 7: Ownership and borrowing (~ 1 hour)
 Take your time while reading these next chapters. They are truly fundamental and the more time you put into understanding these concepts now, the easier it will be later on.
+
 * 📚 20 min: Read [4.1 What is Ownership?](https://doc.rust-lang.org/stable/book/ch04-01-what-is-ownership.html) from [The Rust Programming Language](https://doc.rust-lang.org/stable/book/title-page.html).
-* 📚 10 min: Read [4.2 What is Ownership?](https://doc.rust-lang.org/stable/book/ch04-02-references-and-borrowing.html) from [The Rust Programming Language](https://doc.rust-lang.org/stable/book/title-page.html).
+* 📚 10 min: Read [4.2 References and Borrowing](https://doc.rust-lang.org/stable/book/ch04-02-references-and-borrowing.html) from [The Rust Programming Language](https://doc.rust-lang.org/stable/book/title-page.html).
 * 📚 10 min: Read [4.3 The Slice Type](https://doc.rust-lang.org/stable/book/ch04-03-slices.html) from [The Rust Programming Language](https://doc.rust-lang.org/stable/book/title-page.html).
 * Read the same material from [Rust By Example](https://doc.rust-lang.org/stable/rust-by-example/primitives.html), please note that we are skipping 15.4 Lifetimes for now, we'll get back to it.
   - 📚 1 min: [15. Scoping rules](https://doc.rust-lang.org/stable/rust-by-example/scope.html)
@@ -106,6 +109,7 @@ After the short break of Day 1, we will try to rush ahead a bit. Some of the are
 
 ### Week 2, Day 1: Nothing new just plain programming (~ 1 hour, 10 min)
 No new content today. Instead we will just do a couple of programming exercises to get us more comfortable writing actual code.
+
 * 💻 30 min: Do as many Project Euler problems that you can fit in 30 minutes.  [Project Euler](https://projecteuler.net). Don't worry about how many you actually finish. This is aimed to get us used to writing actual code.
 * 💻 20 min: Do the problem called Matching Brackets on [Exercism](https://exercism.io/)
 * 💻 20 min: Do the problem called Proverb on [Exercism](https://exercism.io/)
@@ -148,6 +152,7 @@ https://medium.com/learning-rust/rust-error-handling-72a8e036dd3
 ### Week 3, Day 1: Taking a breather (~ 1 hour, 30min)
 Today we will sit back and watch video again. Bring out the popcorn.
 Again, as usual, don't worry too much if you don't understand all the details. Some of the things covered in this video are things we have yet to encounter in our reading.
+
 * 📺 1h 32min: Watch [Rust Programming Techniques](https://www.youtube.com/watch?v=vqavdUGKeb4). 
 
 ### Week 3, Day 1: Iterators and closures
@@ -164,98 +169,72 @@ Today we are going to to a lot of reading. In fact, most pieces of the puzzle is
 * 📰 10 min: Read [The Problem With Single-threaded Shared Mutability](https://manishearth.github.io/blog/2015/05/17/the-problem-with-shared-mutability/)
 * 📰 5 min: Read [Strategies for solving 'cannot move out of' borrowing errors in Rust](https://hermanradtke.com/2015/06/09/strategies-for-solving-cannot-move-out-of-borrowing-errors-in-rust.html)
 * 📰 5 min: Read [Graphical depiction of ownership and borrowing in Rust](https://rufflewind.com/2017-02-15/rust-move-copy-borrow)
+
 ### Week 3, Day 5: 
 ### Week 3, Day 6: 
+### Week 3, Day 7: 
 
-## Week 4: I/O
-### Week 4, Day 1: 
-### Week 4, Day 2: 
-### Week 4, Day 3: I/O and Tokio
-### Week 4, Day 4: Filesystem and Processes
-### Week 4, Day 5: The I/O Project
-### Week 4, Day 6: Understanding Ripgrep
-### Week 4, Day 7: Automated testing
-
-## Week 5: Cleaning up
-### Week 5, Day 1: 
-### Week 5, Day 2: 
-### Week 5, Day 3: 
-### Week 5, Day 4: 
-### Week 5, Day 5: 
-### Week 5, Day 6: Box, heap and pointers
-### Week 5, Day 7: Macros
-
-## Week 6: Concurrency and networking 
-### Week 6, Day 1: Threads and concurrency
-### Week 6, Day 2: Channels
-### Week 6, Day 3: Networking
-### Week 6, Day 4: Building a TCP/IP Server
-### Week 6, Day 5: Building a TCP/IP Server continued.
-### Week 6, Day 6: Async/Await
-### Week 6, Day 7: Async/Await continued.
-
-## Week 7: 
-### Week 7, Day 1: Threads and concurrency
-### Week 7, Day 2: Channels
-### Week 7, Day 3: Networking
-### Week 7, Day 4: Building a TCP/IP Server
-### Week 7, Day 5: Building a TCP/IP Server continued.
-### Week 7, Day 6: Async/Await
-### Week 7, Day 7: Async/Await continued.
-
-
-## Week 8: Web stuff
-### Week 8, Day 1: Serialisation and deserialisation with JSON
-### Week 8, Day 2: 
-### Week 8, Day 3: Web-stuff
-### Week 8, Day 4: Building a Web Server
-### Week 8, Day 5: Building a Web Server continued.
-### Week 8, Day 6: Introduction to WASM
-### Week 8, Day 7: WASM continued.
-
-## Week 9: Unsafe and interoperability
-### Week 9, Day 1: Unsafe 
+### Unsafe 
 https://www.ralfj.de/blog/2016/01/09/the-scope-of-unsafe.html
 
-### Week 9, Day 2: Unsafe continued
-### Week 9, Day 3: Wrapper types
-https://manishearth.github.io/blog/2015/05/27/wrapper-types-in-rust-choosing-your-guarantees/
-
-### Week 9, Day 4: 
-### Week 9, Day 5: 
-### Week 9, Day 6: 
-### Week 9, Day 7: 
+### Wrapper types
+https://manishearth.github.io/blog/2015/05/27/wrapper-types-in-rust-choosing-your-guarantees/ 
 
 ## Upcoming
-### Reading the documentation
-### Modules, packages, cargo and crates
-### Regular expressions
-### Reading code Regex
-### Rocket 1
-### Rocket 2
-### CSV Files
-### Reading code Ripgrep
-### Databases, postgres
-### Databases, redis
-### Reading code Diesel
-### Advanced Traits
-### Python and Rust
-### C and Rust
-### C++ and Rust
-### Java & Rust
-### A bit bigger app
-### A bit bigger app continued
-### Serde
-### rand
-### tokio
-### async
-### clap
-### regex
-### log
-### futures
-### hyper
-### lazy_static
-### Clippy
+* Concurrency and networking 
+* Threads and concurrency
+* Channels
+* Networking
+* Building a TCP/IP Server
+* Building a TCP/IP Server continued.
+* Async/Await
+* Async/Await continued.
+* Threads and concurrency
+* Channels
+* Networking
+* Building a TCP/IP Server
+* Building a TCP/IP Server continued.
+* Async/Await
+* Async/Await continued.
+* Building a Web Server
+* Building a Web Server continued.
+* I/O and Tokio
+* Filesystem and Processes
+* The I/O Project
+* Understanding Ripgrep
+* Automated testing
+* Box, heap and pointers
+* Macros
+* Reading the documentation
+* Modules, packages, cargo and crates
+* Regular expressions
+* Reading code Regex
+* Rocket 1
+* Rocket 2
+* CSV Files
+* WASM
+* Reading code Ripgrep
+* Databases, postgres
+* Databases, redis
+* Reading code Diesel
+* Advanced Traits
+* Python and Rust
+* C and Rust
+* C++ and Rust
+* Java & Rust
+* A bit bigger app
+* A bit bigger app continued
+* Serde
+* rand
+* tokio
+* async
+* clap
+* regex
+* log
+* futures
+* hyper
+* lazy_static
+* Clippy
 
 ## To be sorted
 When we have done structs:
