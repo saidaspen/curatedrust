@@ -143,13 +143,18 @@ Now on to two exercises. They do not directly related to the topics of the day, 
 * 💻 30 min: Do the *Binary Search* exercise on [Exercism](https://exercism.io/)
  
 
-### Week 2, Day 6: Error Handling
+### Week 2, Day 5: Error Handling
 https://medium.com/learning-rust/rust-error-handling-72a8e036dd3
 
-### Week 2, Day 7: Generic Types, Traits and Lifetimes
+### Week 2, Day 6: Generic Types, Traits and Lifetimes
 
-## Week 3: More fundamental stuff 
-### Week 3, Day 1: Taking a breather (~ 1 hour, 30min)
+### Week 2, Day 7: Traits, structs and lifetimes revisited
+
+## Week 3: Half way there
+We have passed the half-way point of the foundation. When this week is done, we will have covered all the essentials. From that point on our learning will change somewhat. We will write more code ourselves and the material we are reading will change. We will be going into depth.
+But for now, let's hunker down and get through more new material. But first...
+
+### Week 3, Day 1: A breather (~ 1 hour, 30min)
 Today we will sit back and watch video again. Bring out the popcorn.
 Again, as usual, don't worry too much if you don't understand all the details. Some of the things covered in this video are things we have yet to encounter in our reading.
 
@@ -170,47 +175,40 @@ Today we are going to to a lot of reading. In fact, most pieces of the puzzle is
 * 📰 5 min: Read [Strategies for solving 'cannot move out of' borrowing errors in Rust](https://hermanradtke.com/2015/06/09/strategies-for-solving-cannot-move-out-of-borrowing-errors-in-rust.html)
 * 📰 5 min: Read [Graphical depiction of ownership and borrowing in Rust](https://rufflewind.com/2017-02-15/rust-move-copy-borrow)
 
-### Week 3, Day 5: 
-### Week 3, Day 6: 
-### Week 3, Day 7: 
+### Week 3, Day 5: Packages, crates and modules
+### Week 3, Day 6: Rust documentation
+### Week 3, Day 7: More on crates
 
+## Week 4
+### Week 3, Day 1: Code exercises
+### Week 3, Day 2: Testing your code
+### Week 3, Day 3: Basic I/O
+### Week 3, Day 4: Concurrency and threads
+### Week 3, Day 5: Networking
+### Week 3, Day 6: Building a webserver
+### Week 3, Day 7: Improving our webserver
+
+## Upcoming
 ### Unsafe 
 https://www.ralfj.de/blog/2016/01/09/the-scope-of-unsafe.html
 
 ### Wrapper types
 https://manishearth.github.io/blog/2015/05/27/wrapper-types-in-rust-choosing-your-guarantees/ 
 
-## Upcoming
-* Concurrency and networking 
-* Threads and concurrency
+### Yet to be organised
 * Channels
-* Networking
 * Building a TCP/IP Server
 * Building a TCP/IP Server continued.
 * Async/Await
 * Async/Await continued.
-* Threads and concurrency
-* Channels
-* Networking
-* Building a TCP/IP Server
-* Building a TCP/IP Server continued.
-* Async/Await
-* Async/Await continued.
-* Building a Web Server
-* Building a Web Server continued.
 * I/O and Tokio
 * Filesystem and Processes
-* The I/O Project
 * Understanding Ripgrep
-* Automated testing
 * Box, heap and pointers
 * Macros
-* Reading the documentation
-* Modules, packages, cargo and crates
 * Regular expressions
 * Reading code Regex
-* Rocket 1
-* Rocket 2
+* Rocket
 * CSV Files
 * WASM
 * Reading code Ripgrep
@@ -223,7 +221,6 @@ https://manishearth.github.io/blog/2015/05/27/wrapper-types-in-rust-choosing-you
 * C++ and Rust
 * Java & Rust
 * A bit bigger app
-* A bit bigger app continued
 * Serde
 * rand
 * tokio
