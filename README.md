@@ -1,12 +1,12 @@
 # Curated Rust
 This is a guided walkthrough of the resources that I used to learn Rust. It is being added to incrementally as I myself learn rust over the next couple of weeks and months.
 
-Some of the days, there are extra material. This is for material that is either not free, material that does not add anything new
-, or only elaborated on previously covered topics.
+Some of the days, there are extra material. These are marked as *👑 Extra* and they are for material that is either not free, material that does not add something new
+, or stuff that is not really relevant, but which might still be interesting.
 
 ## Week 1: Introduction and getting started
-This is our introduction to Rust. It will cover a lot of the fundamentals of Rust and when this week is behind us, we will already be able to start writing software. 
-During this week we will be watching a lot of video and we will be doing quite a bit of reading.
+This is our introduction to Rust. It will cover a lot of the fundamentals and when this week is behind us, we will already be able to write software. 
+During this week we will be watching video and we will be doing a bit of reading.
 Some smaller exercises will also pop up during this week so get ready to code!
 
 ### Week 1, Day 1: What is Rust? (~ 1 hour)
@@ -14,21 +14,23 @@ So. For this first couple of days we will get to know a lot of things about Rust
 to different parts of Rust. Try to relax. It's important that you **don't try too hard to learn anything**. 
 Just sit back and try to enjoy it. Things will become more clear as we go. 
 
-You probably won't understand all of the material for today, and that's totally fine. If you do understand everything, then great, otherwise you will find that it will all be comperhensible in time, we will come back to some of 
+You probably won't understand all of the material for today, and that's totally fine. If you do understand everything, then great, otherwise you will find that it will all be comprehensible in time, we will come back to some of 
 this material later on.
 
 * 📺 1h 3min: Watch [Considering Rust - Jon Gjengset](https://www.youtube.com/watch?v=DnT-LUQgc7s)
 
-### Week 1, Day 2: Getting started (~ 1 hour)
+### Week 1, Day 2: Getting started (~ 1 hour, 15 min)
 Time to get started. Start off by watching a short video on Rust. Then we continue reading through the introduction (section 1) [Introduction - The Rust Programming Language](https://doc.rust-lang.org/stable/book/ch00-00-introduction.html),
 this will have you create not one, but two Hello World! apps.
 We then do a bit more intro reading by reading pages sections 1 Why Rust? and 2 Type Safety from [Why Rust?](https://www.oreilly.com/programming/free/files/why-rust.pdf).
 
 * 📺 6 min: Watch [Rust and the Future of Systems Programming](https://www.youtube.com/watch?v=8EPsnf_ZYU0)
 * 📚 20 min: Read through [Introduction - The Rust Programming Language](https://doc.rust-lang.org/stable/book/ch00-00-introduction.html)
-* 📚 10 min: Read through the first and second secions of [Why Rust?](https://www.oreilly.com/programming/free/files/why-rust.pdf); Why Rust? and Type Safety.
+* 📚 10 min: Read through the first and second sections of [Why Rust?](https://www.oreilly.com/programming/free/files/why-rust.pdf); Why Rust? and Type Safety.
 * 📚 10 min: Read through the introduction of [A Gentle Introduction To Rust](https://stevedonovan.github.io/rust-gentle-intro/readme.html)
 * 📚 15 min: Checkout the Hello World example of [Rust By Example](https://doc.rust-lang.org/stable/rust-by-example/hello.html). Read 1.1 Comments but skip section 1.2 Formatted Print for now.
+* 📰 15 min: Read [Understanding Over Guesswork](https://hoverbear.org/blog/understand-over-guesswork/) from [Hoverbear](https://hoverbear.org), a great read and overview of Rust.
+
 
 ### Week 1, Day 3: Variables (~ 1 hour 10 minutes)
 Now we are actually about to write our first pieces of software. Let's get into it!
@@ -41,6 +43,9 @@ Now we are actually about to write our first pieces of software. Let's get into 
 * 📚 2 min: Read about [constants](https://doc.rust-lang.org/stable/rust-by-example/custom_types/constants.html) in the [Rust By Example](https://doc.rust-lang.org/stable/rust-by-example)
 * 📚 5 min: Read all the sections of [Variable Bindings](https://doc.rust-lang.org/stable/rust-by-example/variable_bindings.html) from [Rust By Example](https://doc.rust-lang.org/stable/rust-by-example/hello.html)
 
+#### 👑 Extra
+* 📰 15 min: Read [Stability as a Deliverable](https://blog.rust-lang.org/2014/10/30/Stability.html)
+ 
 ### Week 1, Day 4: Types, Functions and flow control (~ 1 hour 30 minutes)
 * 📚 8 min: Read [3.2 Data Types](https://doc.rust-lang.org/stable/book/ch03-02-data-types.html) from [The Rust Programming Language](https://doc.rust-lang.org/stable/book/title-page.html)
 * 💻 5 min: Read all the sections of [2. Primitives](https://doc.rust-lang.org/stable/rust-by-example/primitives.html) from [Rust By Example](https://doc.rust-lang.org/stable/rust-by-example/primitives.html), skip the activity for section '2.2 Tuples' for now, we will get back to it.
@@ -61,18 +66,22 @@ If this took you three hours, rather than an hour and a half, don't worry about 
 
 ### Week 1, Day 5: Taking a step back (~ 1 hour)
 Now we are getting into parts of Rust that many find confusion and difficult. Therefore we will spend more time on this. 
-We start off by looking at two presentations. I know, sometimes its hard co stay awake going through these. Check one of them out today, and look at the other tomorrow.
+We start off by looking at two presentations. I know, sometimes it's hard co stay awake going through these. Check one of them out today, and look at the other tomorrow.
 
 * 📺 1h: Watch [What Is Rust? - Yehuda Katz](https://www.infoq.com/presentations/rust-gc/)
 
+#### 👑 Extra
+* 📰 10 min: Read [Rust is more than safety](https://words.steveklabnik.com/rust-is-more-than-safety)
+* 📰 10 min: Read [Rust is mostly safety](http://graydon2.dreamwidth.org/247406.html)
+
 ### Week 1, Day 6: Even more video! (~ 40 min)
 Bring out the popcorn, another video, just as promised yesterday!
-Don't worry if you dont understand every detail in this video. We are heading into a part of rust that many find quite confusion and hard, namely Ownership and Borrowing. These two videos; the one you watched yesterday, and the one you will be watching now, will set you up to better understand the material to come. We will be taking a couple of days to go over this area, as it is quite advanced, but also very fundamental.
+Don't worry if you don't understand every detail in this video. We are heading into a part of rust that many find quite confusion and hard, namely Ownership and Borrowing. These two videos; the one you watched yesterday, and the one you will be watching now, will set you up to better understand the material to come. We will be taking a couple of days to go over this area, as it is quite advanced, but also very fundamental.
 
 * 📺 40 min: Watch [A Case for Oxidation: The Rust Programming Language - Sergio Benitez](https://www.youtube.com/watch?v=cDFSrVhnZKo)
 
 ### Week 1, Day 7: Ownership and borrowing (~ 1 hour)
-Take your time while reading these next chaptsers. They are truly fundamental and the more time you put into understanding these concepts now, the easier it will be later on.
+Take your time while reading these next chapters. They are truly fundamental and the more time you put into understanding these concepts now, the easier it will be later on.
 * 📚 20 min: Read [4.1 What is Ownership?](https://doc.rust-lang.org/stable/book/ch04-01-what-is-ownership.html) from [The Rust Programming Language](https://doc.rust-lang.org/stable/book/title-page.html).
 * 📚 10 min: Read [4.2 What is Ownership?](https://doc.rust-lang.org/stable/book/ch04-02-references-and-borrowing.html) from [The Rust Programming Language](https://doc.rust-lang.org/stable/book/title-page.html).
 * 📚 10 min: Read [4.3 The Slice Type](https://doc.rust-lang.org/stable/book/ch04-03-slices.html) from [The Rust Programming Language](https://doc.rust-lang.org/stable/book/title-page.html).
@@ -129,22 +138,34 @@ Now on to two exercises. They do not directly related to the topics of the day, 
 * 💻 20 min: Do the *Robot Simulator* exercise on [Exercism](https://exercism.io/)
 * 💻 30 min: Do the *Binary Search* exercise on [Exercism](https://exercism.io/)
  
-### Week 2, Day 5: Error Handling
-### Week 2, Day 5: Generic Types, Traits and Lifetimes
-### Week 2, Day 7: Iterators and closures
+
+### Week 2, Day 6: Error Handling
+https://medium.com/learning-rust/rust-error-handling-72a8e036dd3
+
+### Week 2, Day 7: Generic Types, Traits and Lifetimes
 
 ## Week 3: More fundamental stuff 
 ### Week 3, Day 1: Taking a breather (~ 1 hour, 30min)
 Today we will sit back and watch video again. Bring out the popcorn.
-Again, as usual, don't worry too much if you dont understand all the details. Some of the things covered in this video are things we have yet to encounter in our reading.
+Again, as usual, don't worry too much if you don't understand all the details. Some of the things covered in this video are things we have yet to encounter in our reading.
 * 📺 1h 32min: Watch [Rust Programming Techniques](https://www.youtube.com/watch?v=vqavdUGKeb4). 
+
+### Week 3, Day 1: Iterators and closures
+https://blog.guillaume-gomez.fr/articles/2017-03-09+Little+tour+of+multiple+iterators+implementation+in+Rust
 
 ### Week 3, Day 2: Itertools
 ### Week 3, Day 3: Coding!
-### Week 3, Day 4: 
+### Week 3, Day 4: Back to ownership
+Today we are going to to a lot of reading. In fact, most pieces of the puzzle is already in place. Today we will be reading blog posts on ownership. It's always good to see others perspectives.
+
+* 📰 15 min: Read [Lock-freedom without garbage collection](https://aturon.github.io/blog/2015/08/27/epoch/)
+* 📰 10 min: [Where Rust Really shines](https://manishearth.github.io/blog/2015/05/03/where-rust-really-shines/)
+* 📰 15 min: Read [Rust Means Never Having to Close a Socket](https://blog.skylight.io/rust-means-never-having-to-close-a-socket/)
+* 📰 10 min: Read [The Problem With Single-threaded Shared Mutability](https://manishearth.github.io/blog/2015/05/17/the-problem-with-shared-mutability/)
+* 📰 5 min: Read [Strategies for solving 'cannot move out of' borrowing errors in Rust](https://hermanradtke.com/2015/06/09/strategies-for-solving-cannot-move-out-of-borrowing-errors-in-rust.html)
+* 📰 5 min: Read [Graphical depiction of ownership and borrowing in Rust](https://rufflewind.com/2017-02-15/rust-move-copy-borrow)
 ### Week 3, Day 5: 
 ### Week 3, Day 6: 
-### Week 3, Day 7: 
 
 ## Week 4: I/O
 ### Week 4, Day 1: 
@@ -184,8 +205,8 @@ Again, as usual, don't worry too much if you dont understand all the details. So
 
 
 ## Week 8: Web stuff
-### Week 8, Day 1: Serialization and deserialization with JSON
-### Week 8, Day 2: Serde
+### Week 8, Day 1: Serialisation and deserialisation with JSON
+### Week 8, Day 2: 
 ### Week 8, Day 3: Web-stuff
 ### Week 8, Day 4: Building a Web Server
 ### Week 8, Day 5: Building a Web Server continued.
@@ -194,8 +215,12 @@ Again, as usual, don't worry too much if you dont understand all the details. So
 
 ## Week 9: Unsafe and interoperability
 ### Week 9, Day 1: Unsafe 
+https://www.ralfj.de/blog/2016/01/09/the-scope-of-unsafe.html
+
 ### Week 9, Day 2: Unsafe continued
-### Week 9, Day 3: 
+### Week 9, Day 3: Wrapper types
+https://manishearth.github.io/blog/2015/05/27/wrapper-types-in-rust-choosing-your-guarantees/
+
 ### Week 9, Day 4: 
 ### Week 9, Day 5: 
 ### Week 9, Day 6: 
@@ -220,9 +245,22 @@ Again, as usual, don't worry too much if you dont understand all the details. So
 ### Java & Rust
 ### A bit bigger app
 ### A bit bigger app continued
+### Serde
+### rand
+### tokio
+### async
+### clap
+### regex
+### log
+### futures
+### hyper
+### lazy_static
+### Clippy
 
 ## To be sorted
 When we have done structs:
+
+[Rust Anthology Master List](https://github.com/brson/rust-anthology/blob/master/master-list.md)
 
 https://gist.github.com/brson/a324c83a6af6a8a78dfaa9d33eb9b48e
 
