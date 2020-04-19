@@ -145,13 +145,14 @@ Now on to two exercises. They do not directly related to the topics of the day, 
 * 💻 20 min: Do the *Robot Simulator* exercise on [Exercism](https://exercism.io/)
 * 💻 30 min: Do the *Binary Search* exercise on [Exercism](https://exercism.io/)
  
-### Week 2, Day 5: Error Handling (~ 1 hour)
+### Week 2, Day 5: Error Handling (~ 1 hour, 15 min)
 Some find Error handling in Rust to be difficult. I should know, I am one of them. Coming from a language like Java or Python, Rust's error handling can seem obscure. I am told, however, that you get used to it and that you learn to love it. 
 Let's get started!
 
 * 📚 25 min: Read [9. Error Handling](https://doc.rust-lang.org/stable/book/ch09-00-error-handling.html) from [The Rust Programming Language](https://doc.rust-lang.org/book/title-page.html)
-* 💻 25 min: Do [Rustlings](https://github.com/fmoko/rustlings) exercises *errors1*, *errors2*, *errorsn* and *result1*.
+* 📚 20 min: Read [18. Error Handling](https://doc.rust-lang.org/stable/rust-by-example/error.html) from [Rust By Example](https://doc.rust-lang.org/stable/rust-by-example/index.html). Read all the sub sections as well. It will introduce some new material that will be useful. 
 * 📰 10 min Read [On Error Handling](https://lucumr.pocoo.org/2014/10/16/on-error-handling/) from the blog *Armin Ronacher's Thoughts and Writings*
+* 💻 25 min: Do [Rustlings](https://github.com/fmoko/rustlings) exercises *errors1*, *errors2*, *errorsn*, *result1*.
 
 #### 👑 Extra
 * 📰 25 min: Read [Error Handling in Rust](https://blog.burntsushi.net/rust-error-handling/) from Andrew Gallant's Blog.
