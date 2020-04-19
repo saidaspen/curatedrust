@@ -80,7 +80,10 @@ We start off by looking at two presentations. I know, sometimes it's hard co sta
 Bring out the popcorn, another video, just as promised yesterday!
 Don't worry if you don't understand every detail in this video. We are heading into a part of rust that many find quite confusion and hard, namely Ownership and Borrowing. These two videos; the one you watched yesterday, and the one you will be watching now, will set you up to better understand the material to come. We will be taking a couple of days to go over this area, as it is quite advanced, but also very fundamental.
 
-* 📺 40 min: Watch [A Case for Oxidation: The Rust Programming Language - Sergio Benitez](https://www.youtube.com/watch?v=cDFSrVhnZKo)
+*  📺 40 min: Watch [A Case for Oxidation: The Rust Programming Language - Sergio Benitez](https://www.youtube.com/watch?v=cDFSrVhnZKo)
+
+### 👑 Extra
+* 📺 5 min: Watch [Growing the Rust Community](https://www.youtube.com/watch?v=duv0tuPAnO0)
 
 ### Week 1, Day 7: Ownership and borrowing (~ 1 hour)
 Take your time while reading these next chapters. They are truly fundamental and the more time you put into understanding these concepts now, the easier it will be later on.
@@ -295,7 +298,6 @@ Watch [What is Rust?](https://www.infoq.com/presentations/rust-gc/) [Video 1h]
 * [Learning Rust: Memory, Ownership and Borrowing](https://www.youtube.com/watch?v=8M0QfLUDaaA)
 * [Rust Crash Course | Rustlang](https://www.youtube.com/watch?v=zF34dRivLOw)
 * [Safe Systems Programming with Rust](https://www.youtube.com/watch?v=P3sfNGtpuxc)
-* [Growing the Rust Community](https://www.youtube.com/watch?v=duv0tuPAnO0)
 * [Rust: A Language for the Next 40 Years - Carol Nichols](https://www.youtube.com/watch?v=A3AdN7U24iU)
 * [Build a cryptocurrency! - Blockchain in Rust #01: Blocks & Hashing](https://www.youtube.com/watch?v=vJdT05zl6jk)
 * [Rust in Motion](https://www.manning.com/livevideo/rust-in-motion)
