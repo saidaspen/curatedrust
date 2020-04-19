@@ -145,9 +145,14 @@ Now on to two exercises. They do not directly related to the topics of the day, 
 * 💻 20 min: Do the *Robot Simulator* exercise on [Exercism](https://exercism.io/)
 * 💻 30 min: Do the *Binary Search* exercise on [Exercism](https://exercism.io/)
  
+### Week 2, Day 5: Error Handling (~ 1 hour)
+* 📚 25 min: Read [9. Error Handling](https://doc.rust-lang.org/stable/book/ch09-00-error-handling.html) from [The Rust Programming Language](https://doc.rust-lang.org/book/title-page.html)
+* 💻 25 min: Do [Rustlings](https://github.com/fmoko/rustlings) exercises *errors1*, *errors2*, *errorsn* and *result1*.
+* 📰 10 min Read [On Error Handling](https://lucumr.pocoo.org/2014/10/16/on-error-handling/) from the blog *Armin Ronacher's Thoughts and Writings*
 
-### Week 2, Day 5: Error Handling
-https://medium.com/learning-rust/rust-error-handling-72a8e036dd3
+#### 👑 Extra
+* 📰 25 min: Read [Error Handling in Rust](https://blog.burntsushi.net/rust-error-handling/) from Andrew Gallant's Blog.
+* 📰 25 min: Read [Rust: Error Handling](https://medium.com/learning-rust/rust-error-handling-72a8e036dd3)
 
 ### Week 2, Day 6: Generic Types, Traits and Lifetimes
 
@@ -165,6 +170,7 @@ Again, as usual, don't worry too much if you don't understand all the details. S
 
 ### Week 3, Day 1: Iterators and closures
 https://blog.guillaume-gomez.fr/articles/2017-03-09+Little+tour+of+multiple+iterators+implementation+in+Rust
+http://xion.io/post/code/rust-iter-patterns.html
 
 ### Week 3, Day 2: Itertools
 ### Week 3, Day 3: Coding!
@@ -239,6 +245,7 @@ https://manishearth.github.io/blog/2015/05/27/wrapper-types-in-rust-choosing-you
 ## To be sorted
 When we have done structs:
 
+[Idiomatic Rust](https://github.com/mre/idiomatic-rust)
 [Rust Anthology Master List](https://github.com/brson/rust-anthology/blob/master/master-list.md)
 
 https://gist.github.com/brson/a324c83a6af6a8a78dfaa9d33eb9b48e
