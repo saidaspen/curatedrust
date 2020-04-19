@@ -140,6 +140,7 @@ We will get back to more about structs very soon. So, if you have not fully wrap
 * 📚 5 min: Read [8.3 Storing Keys with Associated Values in Hash Maps](https://doc.rust-lang.org/stable/book/ch08-03-hash-maps.html) form [The Rust Programming Language](https://doc.rust-lang.org/book/title-page.html)
 * 📚 15 min: Read [1.2 Formatted Print](https://doc.rust-lang.org/stable/rust-by-example/hello/print.html) from [Rust By Example](https://doc.rust-lang.org/stable/rust-by-example/primitives.html)
 * 💻 10 min: Do the [Two Sum](https://leetcode.com/problems/two-sum/) problem on [Leetcode.com](https://leetcode.com). 
+
 Now on to two exercises. They do not directly related to the topics of the day, but practicing writing code is valuable. You should have the tools to solve them.
 
 * 💻 20 min: Do the *Robot Simulator* exercise on [Exercism](https://exercism.io/)
