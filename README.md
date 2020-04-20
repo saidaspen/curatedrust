@@ -1,8 +1,18 @@
 # Curated Rust
 This is a guided walkthrough of the resources that I used to learn Rust. It is being added to incrementally as I myself learn rust over the next couple of weeks and months.
 
+It is still being worked on and not yet complete.
+
 Some of the days, there are extra material. These are marked as *👑 Extra* and they are for material that is either not free, material that does not add something new
 , or stuff that is not really relevant, but which might still be interesting.
+
+## Table of contents
+* [Week 1: Introduction and getting started](#week-1-introduction-and-getting-started)
+* [Week 2: It's getting more advancedd](#week-2-its-getting-more-advanced)
+* [Week 3: Half way there](#week-3-half-way-there)
+* [Week 4](#week-4)
+* [To be organised](#to-be-organised)
+* [References](#references)
 
 ## Week 1: Introduction and getting started
 This is our introduction to Rust. It will cover a lot of the fundamentals and when this week is behind us, we will already be able to write software. 
@@ -202,14 +212,8 @@ Today we are going to to a lot of reading. In fact, most pieces of the puzzle is
 ### Week 3, Day 6: Building a webserver
 ### Week 3, Day 7: Improving our webserver
 
-## Upcoming
-### Unsafe 
-https://www.ralfj.de/blog/2016/01/09/the-scope-of-unsafe.html
 
-### Wrapper types
-https://manishearth.github.io/blog/2015/05/27/wrapper-types-in-rust-choosing-your-guarantees/ 
-
-### Yet to be organised
+## To be organised
 * Channels
 * Building a TCP/IP Server
 * Building a TCP/IP Server continued.
@@ -247,9 +251,13 @@ https://manishearth.github.io/blog/2015/05/27/wrapper-types-in-rust-choosing-you
 * lazy_static
 * Clippy
 
-## To be sorted
-When we have done structs:
+### Unsafe 
+https://www.ralfj.de/blog/2016/01/09/the-scope-of-unsafe.html
 
+### Wrapper types
+https://manishearth.github.io/blog/2015/05/27/wrapper-types-in-rust-choosing-your-guarantees/ 
+
+### Random
 [Idiomatic Rust](https://github.com/mre/idiomatic-rust)
 [Rust Anthology Master List](https://github.com/brson/rust-anthology/blob/master/master-list.md)
 
@@ -261,18 +269,20 @@ Video about memory safety etc. 38 minutes. [A Case for Oxidation](https://www.yo
 
 Video about ownership and borrowing. 1h.
 Watch [What is Rust?](https://www.infoq.com/presentations/rust-gc/) [Video 1h]
-## General 
+
+## References
+### General 
 * [Learn Rust](https://www.rust-lang.org/learn)
 * [The Rust Programming Language](https://doc.rust-lang.org/stable/book/)
 
-## Reference
+### Reference
 * [Restonomicon](https://doc.rust-lang.org/stable/nomicon/)
 
-## Books
+### Books
 * [Why Rust?](https://www.oreilly.com/programming/free/files/why-rust.pdf)
 * [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/)
 
-## Courses
+### Courses
 * [Learn Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/)
 * [Rust in 7 Programs](http://aml3.github.io/RustTutorial/)
 * [24 days of Rust](http://zsiciarz.github.io/24daysofrust/index.html)
@@ -281,32 +291,32 @@ Watch [What is Rust?](https://www.infoq.com/presentations/rust-gc/) [Video 1h]
 * [Rust Fundamentals](https://www.pluralsight.com/courses/rust-fundamentals)
 * [Rust By Example](https://doc.rust-lang.org/stable/rust-by-example/)
 
-## Web application / Project
+### Web application / Project
 * [A web application completely in Rust](https://medium.com/@saschagrunert/a-web-application-completely-in-rust-6f6bdb6c4471)
 * [Rust Solution to the Mars Rover Challenge](https://github.com/cobbinma/mars_rover_/blob/master/README.md)
 
-## Exercises
+### Exercises
 * [Rustlings](https://github.com/fmoko/rustlings/blob/master/README.md)
 * [Exercism](https://exercism.io)
 * [Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code)
 * [Project Euler](https://projecteuler.net)
 
-## Tutorials
+### Tutorials
 [Rust for Systems Programmers](https://github.com/nrc/r4cppp?ref=hackr.io)
 
-## Articles
+### Articles
 * [Two years with Rust](http://brooker.co.za/blog/2020/03/22/rust.html)
 * [Half hour to learn Rust](https://fasterthanli.me/blog/2020/a-half-hour-to-learn-rust/)
 * [Hoverbear Consulting # Rust](https://hoverbear.org/tags/#rust)
 
-## Other resources
+### Other resources
 * [Rust Blog](https://blog.rust-lang.org)
 * [Rust on Reddit](https://www.reddit.com/r/rust/)
 * [This week in Rust](https://this-week-in-rust.org)
 * [New Rustaceans (Podcast)](https://newrustacean.com)
 * [Rust Playground](https://play.rust-lang.org)
 
-## Videos
+### Videos
 * [Learning Rust: Memory, Ownership and Borrowing](https://www.youtube.com/watch?v=8M0QfLUDaaA)
 * [Rust Crash Course | Rustlang](https://www.youtube.com/watch?v=zF34dRivLOw)
 * [Safe Systems Programming with Rust](https://www.youtube.com/watch?v=P3sfNGtpuxc)
@@ -321,13 +331,11 @@ Watch [What is Rust?](https://www.infoq.com/presentations/rust-gc/) [Video 1h]
 * [Rust and the Future of Systems Programming](https://www.youtube.com/playlist?list=PLo3w8EB99pqJ74XIGe72c9hBZWz9Y16cY)
 * [Rust Hello](https://www.youtube.com/channel/UCZ_EWaQZCZuGGfnuqUoHujw)
 
-
-## Source code
+### Source code
 * [Ripgrep](https://github.com/BurntSushi/ripgrep)
 * [Diesel](https://github.com/diesel-rs/diesel)
 * [Regex](https://github.com/rust-lang/regex)
 
-
-## Lists
+### Lists
 * [Rust Learning](https://github.com/ctjhoa/rust-learning)
 
