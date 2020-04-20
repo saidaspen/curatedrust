@@ -181,6 +181,7 @@ Let's get started!
 * 📚 10 min: Read [Error Handling](https://stevedonovan.github.io/rust-gentle-intro/6-error-handling.html) from [A Gentle Introduction to Rust](https://stevedonovan.github.io/rust-gentle-intro/readme.html)
 
 ### Week 2, Day 6: Generic Types, Traits and Lifetimes
+* 📚 25 min: Read [10. Generic Types, Traits, and Lifetimes](https://doc.rust-lang.org/stable/book/ch10-00-generics.html) from [The Rust Programming Language](https://doc.rust-lang.org/book/title-page.html)
 
 ### Week 2, Day 7: Traits, structs and lifetimes revisited
 
@@ -215,13 +216,8 @@ Today we are going to to a lot of reading. In fact, most pieces of the puzzle is
 ### Week 3, Day 7: More on crates
 
 ## Week 4
-### Week 3, Day 1: Code exercises
-### Week 3, Day 2: Testing your code
-### Week 3, Day 3: Basic I/O
-### Week 3, Day 4: Concurrency and threads
-### Week 3, Day 5: Networking
-### Week 3, Day 6: Building a webserver
-### Week 3, Day 7: Improving our webserver
+It is time to take a break. No, really.
+At this point, after three weeks of hard work, lot's of reading, I was getting a bit bored. 'I want to write code!'. Therefore this week will be a bit different.
 
 ## Reference
 ### Video
@@ -258,6 +254,12 @@ Today we are going to to a lot of reading. In fact, most pieces of the puzzle is
 - [Leetcode.com](https://leetcode.com)
 
 ## Todo
+* Testing your code
+* Basic I/O
+* Concurrency and threads
+* Networking
+* Building a webserver
+* Improving our webserver
 * Channels
 * Building a TCP/IP Server
 * Building a TCP/IP Server continued.
