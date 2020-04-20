@@ -35,7 +35,7 @@ this will have you create not one, but two Hello World! apps.
 We then do a bit more intro reading by reading pages sections 1 Why Rust? and 2 Type Safety from [Why Rust?](https://www.oreilly.com/programming/free/files/why-rust.pdf).
 
 * 📺 6 min: Watch [Rust and the Future of Systems Programming](https://www.youtube.com/watch?v=8EPsnf_ZYU0)
-* 📚 20 min: Read through [Introduction - The Rust Programming Language](https://doc.rust-lang.org/stable/book/ch00-00-introduction.html)
+* 📚 20 min: Read through [Introduction - The Rust Programming Language](https://doc.rust-lang.org/stable/book/ch00-00-introduction.html) and then Section [1. Getting Started](https://doc.rust-lang.org/stable/book/ch01-00-getting-started.html).
 * 📚 10 min: Read through the first and second sections of [Why Rust?](https://www.oreilly.com/programming/free/files/why-rust.pdf); Why Rust? and Type Safety.
 * 📚 10 min: Read through the introduction of [A Gentle Introduction To Rust](https://stevedonovan.github.io/rust-gentle-intro/readme.html)
 * 📚 15 min: Checkout the Hello World example of [Rust By Example](https://doc.rust-lang.org/stable/rust-by-example/hello.html). Read 1.1 Comments but skip section 1.2 Formatted Print for now.
@@ -62,7 +62,7 @@ Now we are actually about to write our first pieces of software. Let's get into 
 * 📚 8 min: Read [3.2 Data Types](https://doc.rust-lang.org/stable/book/ch03-02-data-types.html) from [The Rust Programming Language](https://doc.rust-lang.org/stable/book/title-page.html)
 * 💻 5 min: Read all the sections of [2. Primitives](https://doc.rust-lang.org/stable/rust-by-example/primitives.html) from [Rust By Example](https://doc.rust-lang.org/stable/rust-by-example/primitives.html), skip the activity for section '2.2 Tuples' for now, we will get back to it.
 * 📚 8 min: Read [3.3 Functions](https://doc.rust-lang.org/stable/book/ch03-03-how-functions-work.html) from [The Rust Programming Language](https://doc.rust-lang.org/stable/book/title-page.html)
-* 📚 1 min: Read [7. Expressions](https://doc.rust-lang.org/stable/rust-by-example/expression.html) in the [Rust By Example](https://doc.rust-lang.org/stable/rust-by-example/primitives.html) 
+* 📚 1 min: Read [7. Expressions](https://doc.rust-lang.org/stable/rust-by-example/expression.html) in the [Rust By Example](https://doc.rust-lang.org/stable/rust-by-example) 
 * 📚 1 min: Read [3.4 Comments](https://doc.rust-lang.org/stable/book/ch03-04-comments.html) from [The Rust Programming Language](https://doc.rust-lang.org/stable/book/title-page.html)
 * 📚 1 min: Read [1.1 Comments](https://doc.rust-lang.org/stable/rust-by-example/hello/comment.html) from [Rust By Example](https://doc.rust-lang.org/stable/rust-by-example/primitives.html)
 * 📚 10 min: Read [3.5 Control Flow](https://doc.rust-lang.org/stable/book/ch03-05-control-flow.html) from [The Rust Programming Language](https://doc.rust-lang.org/stable/book/title-page.html). Do not do the exercises at the very end, we will do them in a minute, but first read about control flow also in Rust By Example.
@@ -101,7 +101,7 @@ Take your time while reading these next chapters. They are truly fundamental and
 * 📚 20 min: Read [4.1 What is Ownership?](https://doc.rust-lang.org/stable/book/ch04-01-what-is-ownership.html) from [The Rust Programming Language](https://doc.rust-lang.org/stable/book/title-page.html).
 * 📚 10 min: Read [4.2 References and Borrowing](https://doc.rust-lang.org/stable/book/ch04-02-references-and-borrowing.html) from [The Rust Programming Language](https://doc.rust-lang.org/stable/book/title-page.html).
 * 📚 10 min: Read [4.3 The Slice Type](https://doc.rust-lang.org/stable/book/ch04-03-slices.html) from [The Rust Programming Language](https://doc.rust-lang.org/stable/book/title-page.html).
-* Read the same material from [Rust By Example](https://doc.rust-lang.org/stable/rust-by-example/primitives.html), please note that we are skipping 15.4 Lifetimes for now, we'll get back to it.
+* Read the same material from [Rust By Example](https://doc.rust-lang.org/stable/rust-by-example), please note that we are skipping 15.4 Lifetimes for now, we'll get back to it.
   - 📚 1 min: [15. Scoping rules](https://doc.rust-lang.org/stable/rust-by-example/scope.html)
   - 📚 3 min: [15.1 RAII](https://doc.rust-lang.org/stable/rust-by-example/scope/raii.html)
   - 📚 2 min: [15.2 Ownership and moves](https://doc.rust-lang.org/stable/rust-by-example/scope/move.html)
@@ -139,11 +139,18 @@ If you have more time keep doing project Euler challenges. Wait a bit with doing
 
 We will get back to more about structs very soon. So, if you have not fully wrapped your head around all of this, don't worry.
 
-### Week 2, Day 3: Enums and Pattern Matching (~ 1 hour, 20min)
+### Week 2, Day 3: Enums and Pattern Matching (~ 1 hour, 45min)
 * 📚 15 min: Read all the sections of [Enums and Pattern Matching](https://doc.rust-lang.org/book/ch06-00-enums.html) from [The Rust Programming Language](https://doc.rust-lang.org/book/title-page.html)
+* 📚 10 min: Read [3.2 Enums](https://doc.rust-lang.org/stable/rust-by-example/custom_types/enum.html) from [Rust by Example](https://doc.rust-lang.org/stable/rust-by-example/)
+* 📚 15 min: Read all the sections of [8.5 match](https://doc.rust-lang.org/stable/rust-by-example/flow_control/match.html) from [Rust by Example](https://doc.rust-lang.org/stable/rust-by-example/)
 * 💻 20 min: Do [Rustlings](https://github.com/fmoko/rustlings) exercises *enums1*, *enums2* and *enums3*.
 * 📰 15 min: Read [Mixing matching, mutation, and moves in Rust](https://blog.rust-lang.org/2015/04/17/Enums-match-mutation-and-moves.html). Don't worry if you don't understand it all. It's quite a though read!
 * 💻 30 min: Do the *Leap* and the *Matching Brackets* exercises on [Exercism](https://exercism.io/)
+
+#### 👑 Extra
+* 📚 2 min: Read [8.6 if let](https://doc.rust-lang.org/stable/rust-by-example/flow_control/if_let.html) from [Rust by Example](https://doc.rust-lang.org/stable/rust-by-example/)
+* 📚 2 min: Read [8.7 while let](https://doc.rust-lang.org/stable/rust-by-example/flow_control/while_let.html) from [Rust by Example](https://doc.rust-lang.org/stable/rust-by-example/)
+
 
 ### Week 2, Day 4: Collections and formatting (~ 1 hour, 30min)
 * 📚 10 min: Read [8.1 Storing Lists of Values with Vectors](https://doc.rust-lang.org/stable/book/ch08-01-vectors.html) from [The Rust Programming Language](https://doc.rust-lang.org/book/title-page.html)
@@ -155,6 +162,9 @@ Now on to two exercises. They do not directly related to the topics of the day, 
 
 * 💻 20 min: Do the *Robot Simulator* exercise on [Exercism](https://exercism.io/)
 * 💻 30 min: Do the *Binary Search* exercise on [Exercism](https://exercism.io/)
+
+#### 👑 Extra
+* 📚 15 min: Read [Sort a vector](https://rust-lang-nursery.github.io/rust-cookbook/algorithms/sorting.html) from the Rust Cookbook. It has some lambdas in the code, just ignore them for now.
  
 ### Week 2, Day 5: Error Handling (~ 1 hour, 15 min)
 Some find Error handling in Rust to be difficult. I should know, I am one of them. Coming from a language like Java or Python, Rust's error handling can seem obscure. I am told, however, that you get used to it and that you learn to love it. 
@@ -168,6 +178,7 @@ Let's get started!
 #### 👑 Extra
 * 📰 25 min: Read [Error Handling in Rust](https://blog.burntsushi.net/rust-error-handling/) from Andrew Gallant's Blog.
 * 📰 25 min: Read [Rust: Error Handling](https://medium.com/learning-rust/rust-error-handling-72a8e036dd3)
+* 📚 10 min: Read [Error Handling](https://stevedonovan.github.io/rust-gentle-intro/6-error-handling.html) from [A Gentle Introduction to Rust](https://stevedonovan.github.io/rust-gentle-intro/readme.html)
 
 ### Week 2, Day 6: Generic Types, Traits and Lifetimes
 
@@ -212,8 +223,41 @@ Today we are going to to a lot of reading. In fact, most pieces of the puzzle is
 ### Week 3, Day 6: Building a webserver
 ### Week 3, Day 7: Improving our webserver
 
+## Reference
+### Video
+- [Considering Rust - Jon Gjengset](https://www.youtube.com/watch?v=DnT-LUQgc7s)
+- [Rust and the Future of Systems Programming](https://www.youtube.com/watch?v=8EPsnf_ZYU0)
+- [What Is Rust? - Yehuda Katz](https://www.infoq.com/presentations/rust-gc/)
+- [A Case for Oxidation: The Rust Programming Language - Sergio Benitez](https://www.youtube.com/watch?v=cDFSrVhnZKo)
+- [Growing the Rust Community](https://www.youtube.com/watch?v=duv0tuPAnO0)
+- [Learning Rust: Memory, Ownership and Borrowing](https://www.youtube.com/watch?v=8M0QfLUDaaA)
 
-## To be organised
+### Books and courses
+- [The Rust Programming Language](https://doc.rust-lang.org/stable/book/ch00-00-introduction.html)
+- [Why Rust?](https://www.oreilly.com/programming/free/files/why-rust.pdf)
+- [A Gentle Introduction To Rust](https://stevedonovan.github.io/rust-gentle-intro/readme.html)
+- [Rust By Example](https://doc.rust-lang.org/stable/rust-by-example/hello.html)
+- [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/about.html)
+
+### Articles
+- [Understanding Over Guesswork](https://hoverbear.org/blog/understand-over-guesswork/)
+- [Stability as a Deliverable](https://blog.rust-lang.org/2014/10/30/Stability.html)
+- [Rust is more than safety](https://words.steveklabnik.com/rust-is-more-than-safety)
+- [Rust is mostly safety](http://graydon2.dreamwidth.org/247406.html)
+- [Rust ownership, the hard way](https://chrismorgan.info/blog/rust-ownership-the-hard-way/)
+- [A closer look at Ownership in Rust](https://blog.thoughtram.io/ownership-in-rust/)
+- [Mixing matching, mutation, and moves in Rust](https://blog.rust-lang.org/2015/04/17/Enums-match-mutation-and-moves.html)
+- [On Error Handling](https://lucumr.pocoo.org/2014/10/16/on-error-handling/)
+- [Error Handling in Rust](https://blog.burntsushi.net/rust-error-handling/)
+- [Rust: Error Handling](https://medium.com/learning-rust/rust-error-handling-72a8e036dd3)
+
+### Exercises
+- [Rustlings](https://github.com/fmoko/rustlings)
+- [Exercism](https://exercism.io/)
+- [Project Euler](https://projecteuler.net)
+- [Leetcode.com](https://leetcode.com)
+
+## Todo
 * Channels
 * Building a TCP/IP Server
 * Building a TCP/IP Server continued.
@@ -270,72 +314,10 @@ Video about memory safety etc. 38 minutes. [A Case for Oxidation](https://www.yo
 Video about ownership and borrowing. 1h.
 Watch [What is Rust?](https://www.infoq.com/presentations/rust-gc/) [Video 1h]
 
-## References
-### General 
-* [Learn Rust](https://www.rust-lang.org/learn)
-* [The Rust Programming Language](https://doc.rust-lang.org/stable/book/)
 
-### Reference
-* [Restonomicon](https://doc.rust-lang.org/stable/nomicon/)
-
-### Books
-* [Why Rust?](https://www.oreilly.com/programming/free/files/why-rust.pdf)
-* [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/)
-
-### Courses
-* [Learn Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/)
-* [Rust in 7 Programs](http://aml3.github.io/RustTutorial/)
-* [24 days of Rust](http://zsiciarz.github.io/24daysofrust/index.html)
-* [Gentle Introduction to Rust](https://stevedonovan.github.io/rust-gentle-intro/readme.html)
-* [Rust Basics](https://stepik.org/lesson/9268/step/1)
-* [Rust Fundamentals](https://www.pluralsight.com/courses/rust-fundamentals)
-* [Rust By Example](https://doc.rust-lang.org/stable/rust-by-example/)
 
 ### Web application / Project
 * [A web application completely in Rust](https://medium.com/@saschagrunert/a-web-application-completely-in-rust-6f6bdb6c4471)
 * [Rust Solution to the Mars Rover Challenge](https://github.com/cobbinma/mars_rover_/blob/master/README.md)
 
-### Exercises
-* [Rustlings](https://github.com/fmoko/rustlings/blob/master/README.md)
-* [Exercism](https://exercism.io)
-* [Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code)
-* [Project Euler](https://projecteuler.net)
-
-### Tutorials
-[Rust for Systems Programmers](https://github.com/nrc/r4cppp?ref=hackr.io)
-
-### Articles
-* [Two years with Rust](http://brooker.co.za/blog/2020/03/22/rust.html)
-* [Half hour to learn Rust](https://fasterthanli.me/blog/2020/a-half-hour-to-learn-rust/)
-* [Hoverbear Consulting # Rust](https://hoverbear.org/tags/#rust)
-
-### Other resources
-* [Rust Blog](https://blog.rust-lang.org)
-* [Rust on Reddit](https://www.reddit.com/r/rust/)
-* [This week in Rust](https://this-week-in-rust.org)
-* [New Rustaceans (Podcast)](https://newrustacean.com)
-* [Rust Playground](https://play.rust-lang.org)
-
-### Videos
-* [Learning Rust: Memory, Ownership and Borrowing](https://www.youtube.com/watch?v=8M0QfLUDaaA)
-* [Rust Crash Course | Rustlang](https://www.youtube.com/watch?v=zF34dRivLOw)
-* [Safe Systems Programming with Rust](https://www.youtube.com/watch?v=P3sfNGtpuxc)
-* [Rust: A Language for the Next 40 Years - Carol Nichols](https://www.youtube.com/watch?v=A3AdN7U24iU)
-* [Build a cryptocurrency! - Blockchain in Rust #01: Blocks & Hashing](https://www.youtube.com/watch?v=vJdT05zl6jk)
-* [Rust in Motion](https://www.manning.com/livevideo/rust-in-motion)
-* [A Case for Oxidation](https://www.youtube.com/watch?v=cDFSrVhnZKo)
-* [Rust Async Programming in 2018](https://www.youtube.com/watch?v=j0SIcN-Y-LA)
-* [Building Safe and Secure Systems in Rust](https://www.youtube.com/watch?v=Bja9--oD9Mo)
-* [Programming in Rust 01: Warmup](https://www.youtube.com/watch?v=sv9fTlU7SCA&list=PLTOeCUgrkpMNEHx6j0vCH0cuyAIVZadnc&index=2&t=0s)
-* [Advent of Code in Rust](https://www.youtube.com/playlist?list=PLIbQqI9hzo4Iy8_FUnP0LgWR6ZaRnr2XT)
-* [Rust and the Future of Systems Programming](https://www.youtube.com/playlist?list=PLo3w8EB99pqJ74XIGe72c9hBZWz9Y16cY)
-* [Rust Hello](https://www.youtube.com/channel/UCZ_EWaQZCZuGGfnuqUoHujw)
-
-### Source code
-* [Ripgrep](https://github.com/BurntSushi/ripgrep)
-* [Diesel](https://github.com/diesel-rs/diesel)
-* [Regex](https://github.com/rust-lang/regex)
-
-### Lists
-* [Rust Learning](https://github.com/ctjhoa/rust-learning)
 
