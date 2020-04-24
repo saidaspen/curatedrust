@@ -217,7 +217,8 @@ Today we are going to to a lot of reading. In fact, most pieces of the puzzle is
 
 ## Week 4
 It is time to take a break. No, really.
-At this point, after three weeks of hard work, lot's of reading, I was getting a bit bored. 'I want to write code!'. Therefore this week will be a bit different.
+When I got to this point, I was a bit sick and tired of all the reading. I wanted to build something. If you are feeling the same way, go ahead and do that. You still don't have all the pieces to the puzzle for completing a full-fledged app. But you can get quiet far. Practice makes perfect. 
+Take a break. Go build something (and please share it with me when you are done!), and then get back here to continue the journey.
 
 ## Reference
 ### Video
