@@ -298,6 +298,10 @@ Take a break. Go build something (and please share it with me when you are done!
 * lazy_static
 * Clippy
 
+
+## Lifetimes revisited
+[Crust of Rust: Lifetime Annotations](https://www.youtube.com/watch?v=rAl-9HwD858)
+
 ### Unsafe 
 https://www.ralfj.de/blog/2016/01/09/the-scope-of-unsafe.html
 
