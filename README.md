@@ -8,7 +8,7 @@ Some of the days, there are extra material. These are marked as *👑 Extra* and
 
 ## Table of contents
 * [Week 1: Introduction and getting started](#week-1-introduction-and-getting-started)
-* [Week 2: It's getting more advancedd](#week-2-its-getting-more-advanced)
+* [Week 2: It's getting more advanced](#week-2-its-getting-more-advanced)
 * [Week 3: Half way there](#week-3-half-way-there)
 * [Week 4](#week-4)
 * [To be organised](#to-be-organised)
