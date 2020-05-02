@@ -180,10 +180,23 @@ Let's get started!
 * 📰 25 min: Read [Rust: Error Handling](https://medium.com/learning-rust/rust-error-handling-72a8e036dd3)
 * 📚 10 min: Read [Error Handling](https://stevedonovan.github.io/rust-gentle-intro/6-error-handling.html) from [A Gentle Introduction to Rust](https://stevedonovan.github.io/rust-gentle-intro/readme.html)
 
-### Week 2, Day 6: Generic Types, Traits and Lifetimes
-* 📚 25 min: Read [10. Generic Types, Traits, and Lifetimes](https://doc.rust-lang.org/stable/book/ch10-00-generics.html) from [The Rust Programming Language](https://doc.rust-lang.org/book/title-page.html)
+### Week 2, Day 6: Generic Types, Traits and Lifetimes (~ 1 hour, 35min)
+Traits are pretty straight forward, so it lifetimes. At least in our first pass of them. We will come back to them later to dig more into the nitty gritty.
+You will find that the concepts here are pretty easy to grasp, but beneath the simple facade there lies a much more complex and intricate structure.
+Up until this point, what we have learned has been pretty much what we would lean in other languages as well. But once we get into Lifetimes, we are in uncharted territory. 
 
-### Week 2, Day 7: Traits, structs and lifetimes revisited
+* 📚 25 min: Read [10. Generic Types, Traits, and Lifetimes](https://doc.rust-lang.org/stable/book/ch10-00-generics.html) from [The Rust Programming Language](https://doc.rust-lang.org/book/title-page.html)
+* 📚 10 min: Read through section Reading Rust from [Why Rust?](https://www.oreilly.com/programming/free/files/why-rust.pdf). This has some material that you will know since before, but it does'nt hurt to repeat it.
+* 📚 20 min: Read [14. Generics from Rust by Example](https://doc.rust-lang.org/stable/rust-by-example/generics.html), it goes a bit deeper.
+* 📚 20 min: Read entire section of [16 Traits](https://doc.rust-lang.org/stable/rust-by-example/traits.html). **Except for** *16.5 Iterators*, we will cover Iterators* next week, and *16.6 impl Trait*, which we will also cover later. Lot's of good examples in this part of the book. Pay special attention to anything related to ```Box``` and ```dyn```.
+* 💻 20 min: Do [Rustlings](https://github.com/fmoko/rustlings) exercises *traits1*, *traits2*, *generics1*, *generics2*, *generics3*
+
+#### Extra
+* 📰 10 min: Read [Rust's Built-in Traits, the When, How & Why](https://llogiq.github.io/2015/07/30/traits.html)
+* 📰 10 min: Read [Rust, Lifetimes, and Collections](http://cglab.ca/~abeinges/blah/rust-lifetimes-and-collections/)
+* 📰 10 min: Read [Rust, Generics, and Collections](http://cglab.ca/~abeinges/blah/rust-generics-and-collections/)
+
+### Week 2, Day 7: Tests
 
 ## Week 3: Half way there
 We have passed the half-way point of the foundation. When this week is done, we will have covered all the essentials. From that point on our learning will change somewhat. We will write more code ourselves and the material we are reading will change. We will be going into depth.
@@ -198,6 +211,7 @@ Again, as usual, don't worry too much if you don't understand all the details. S
 ### Week 3, Day 1: Iterators and closures
 https://blog.guillaume-gomez.fr/articles/2017-03-09+Little+tour+of+multiple+iterators+implementation+in+Rust
 http://xion.io/post/code/rust-iter-patterns.html
+https://hermanradtke.com/2015/06/22/effectively-using-iterators-in-rust.html
 
 ### Week 3, Day 2: Itertools
 ### Week 3, Day 3: Coding!
@@ -247,6 +261,9 @@ Take a break. Go build something (and please share it with me when you are done!
 - [On Error Handling](https://lucumr.pocoo.org/2014/10/16/on-error-handling/)
 - [Error Handling in Rust](https://blog.burntsushi.net/rust-error-handling/)
 - [Rust: Error Handling](https://medium.com/learning-rust/rust-error-handling-72a8e036dd3)
+- [Rust's Built-in Traits, the When, How & Why](https://llogiq.github.io/2015/07/30/traits.html)
+- [Rust, Lifetimes, and Collections](http://cglab.ca/~abeinges/blah/rust-lifetimes-and-collections/)
+- [Rust, Generics, and Collections](http://cglab.ca/~abeinges/blah/rust-generics-and-collections/)
 
 ### Exercises
 - [Rustlings](https://github.com/fmoko/rustlings)
