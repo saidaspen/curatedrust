@@ -196,7 +196,11 @@ Up until this point, what we have learned has been pretty much what we would lea
 * 📰 10 min: Read [Rust, Lifetimes, and Collections](http://cglab.ca/~abeinges/blah/rust-lifetimes-and-collections/)
 * 📰 10 min: Read [Rust, Generics, and Collections](http://cglab.ca/~abeinges/blah/rust-generics-and-collections/)
 
-### Week 2, Day 7: Tests
+### Week 2, Day 7: More traits and life-times
+* 📚 15 min: Read [15.4 Lifetimes from Rust by Example](https://doc.rust-lang.org/rust-by-example/scope/lifetime.html).
+* 📚 15 min: Read through [Basics A Gentle Introduction to Rust](https://stevedonovan.github.io/rust-gentle-intro/2-structs-enums-lifetimes.html). You have seen all of this material before, but this is for hammering it into our heads. Enjoy!
+* 📚 20 min: Read through [Strucs, Enums and Matching from A Gentle Introduction to Rust](https://stevedonovan.github.io/rust-gentle-intro/2-structs-enums-lifetimes.html). Same thing here. No new material, we keep on rehearsing!
+
 
 ## Week 3: Half way there
 We have passed the half-way point of the foundation. When this week is done, we will have covered all the essentials. From that point on our learning will change somewhat. We will write more code ourselves and the material we are reading will change. We will be going into depth.
@@ -225,9 +229,9 @@ Today we are going to to a lot of reading. In fact, most pieces of the puzzle is
 * 📰 5 min: Read [Strategies for solving 'cannot move out of' borrowing errors in Rust](https://hermanradtke.com/2015/06/09/strategies-for-solving-cannot-move-out-of-borrowing-errors-in-rust.html)
 * 📰 5 min: Read [Graphical depiction of ownership and borrowing in Rust](https://rufflewind.com/2017-02-15/rust-move-copy-borrow)
 
-### Week 3, Day 5: Packages, crates and modules
-### Week 3, Day 6: Rust documentation
-### Week 3, Day 7: More on crates
+### Week 3, Day 5: 
+### Week 3, Day 6: 
+### Week 3, Day 7: 
 
 ## Week 4
 It is time to take a break. No, really.
@@ -272,8 +276,12 @@ Take a break. Go build something (and please share it with me when you are done!
 - [Leetcode.com](https://leetcode.com)
 
 ## Todo
-* Testing your code
+* Packages, crates and modules
+* More on crates and Rust documentation
+* Tests
 * Basic I/O
+* Deep dive into Lifetimes
+
 * Concurrency and threads
 * Networking
 * Building a webserver
