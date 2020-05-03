@@ -135,7 +135,7 @@ If you have more time keep doing project Euler challenges. Wait a bit with doing
 * 📚 15 min: Read section [8.2. Storing UTF-8 Encoded Text with Strings](https://doc.rust-lang.org/stable/book/ch08-02-strings.html) from [The Rust Programming Language](https://doc.rust-lang.org/stable/book/title-page.html). Don't worry about the references to *vec*, we will get to it soon.
 * 📚 5 min: Read [3.1 Structures](https://doc.rust-lang.org/stable/rust-by-example/custom_types/structs.html) in [Rust By Example](https://doc.rust-lang.org/stable/rust-by-example/index.html)
 * 📚 5 min: Read [9.1 Methods](https://doc.rust-lang.org/stable/rust-by-example/fn/methods.html) in [Rust By Example](https://doc.rust-lang.org/stable/rust-by-example/index.html)
-* 💻 30 min: Do [Rustlings](https://github.com/fmoko/rustlings) exercises *structs1*, *structs2*, *strings1*, *strings2* and *test2*.
+* 💻 30 min: Do [Rustlings](https://github.com/fmoko/rustlings) exercises *structs1*, *structs2*, *structs3*, *strings1*, *strings2* and *test2*.
 
 We will get back to more about structs very soon. So, if you have not fully wrapped your head around all of this, don't worry.
 
@@ -200,6 +200,9 @@ Up until this point, what we have learned has been pretty much what we would lea
 * 📚 15 min: Read [15.4 Lifetimes from Rust by Example](https://doc.rust-lang.org/rust-by-example/scope/lifetime.html).
 * 📚 15 min: Read through [Basics A Gentle Introduction to Rust](https://stevedonovan.github.io/rust-gentle-intro/2-structs-enums-lifetimes.html). You have seen all of this material before, but this is for hammering it into our heads. Enjoy!
 * 📚 20 min: Read through [Strucs, Enums and Matching from A Gentle Introduction to Rust](https://stevedonovan.github.io/rust-gentle-intro/2-structs-enums-lifetimes.html). Same thing here. No new material, we keep on rehearsing!
+
+#### Extra
+* 💻 40 min: Do [Advent of Code 2018 Day 1](https://adventofcode.com/2018/day/1), you should know everything you need for this one. It does not teach you anything new about Rust, but it should get you more comfortable writing code. Also, if you struggle, try Googling for help, or turn to Reddit for help. We have not yet covered how to find your way around the Rust documentation, but that is coming very soon!
 
 
 ## Week 3: Half way there
@@ -271,6 +274,7 @@ Take a break. Go build something (and please share it with me when you are done!
 
 ### Exercises
 - [Rustlings](https://github.com/fmoko/rustlings)
+- [Advent Of Code](https://adventofcode.com/)
 - [Exercism](https://exercism.io/)
 - [Project Euler](https://projecteuler.net)
 - [Leetcode.com](https://leetcode.com)
