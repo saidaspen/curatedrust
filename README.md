@@ -10,8 +10,8 @@ Some of the days, there are extra material. These are marked as *👑 Extra* and
 * [Week 1: Introduction and getting started](#week-1-introduction-and-getting-started)
 * [Week 2: It's getting more advanced](#week-2-its-getting-more-advanced)
 * [Week 3: Half way there](#week-3-half-way-there)
-* [Week 4](#week-4-wrapping-up-the-basics)
-* [Week 5](#week-5-jumping-into-the-deep-end)
+* [Week 4: Wrapping up the basics](#week-4-wrapping-up-the-basics)
+* [Week 5: Jumping into the deep end](#week-5-jumping-into-the-deep-end)
 * [To be organised](#to-be-organised)
 * [References](#references)
 
