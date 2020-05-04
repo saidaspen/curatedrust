@@ -10,7 +10,8 @@ Some of the days, there are extra material. These are marked as *👑 Extra* and
 * [Week 1: Introduction and getting started](#week-1-introduction-and-getting-started)
 * [Week 2: It's getting more advanced](#week-2-its-getting-more-advanced)
 * [Week 3: Half way there](#week-3-half-way-there)
-* [Week 4](#week-4)
+* [Week 4](#week-4-wrapping-up-the-basics)
+* [Week 5](#week-5-jumping-into-the-deep-end)
 * [To be organised](#to-be-organised)
 * [References](#references)
 
@@ -196,7 +197,7 @@ Up until this point, what we have learned has been pretty much what we would lea
 * 📰 10 min: Read [Rust, Lifetimes, and Collections](http://cglab.ca/~abeinges/blah/rust-lifetimes-and-collections/)
 * 📰 10 min: Read [Rust, Generics, and Collections](http://cglab.ca/~abeinges/blah/rust-generics-and-collections/)
 
-### Week 2, Day 7: More traits and life-times
+### Week 2, Day 7: More traits and life-times (~50 min)
 * 📚 15 min: Read [15.4 Lifetimes from Rust by Example](https://doc.rust-lang.org/rust-by-example/scope/lifetime.html).
 * 📚 15 min: Read through [Basics A Gentle Introduction to Rust](https://stevedonovan.github.io/rust-gentle-intro/2-structs-enums-lifetimes.html). You have seen all of this material before, but this is for hammering it into our heads. Enjoy!
 * 📚 20 min: Read through [Strucs, Enums and Matching from A Gentle Introduction to Rust](https://stevedonovan.github.io/rust-gentle-intro/2-structs-enums-lifetimes.html). Same thing here. No new material, we keep on rehearsing!
@@ -204,10 +205,8 @@ Up until this point, what we have learned has been pretty much what we would lea
 #### Extra
 * 💻 40 min: Do [Advent of Code 2018 Day 1](https://adventofcode.com/2018/day/1), you should know everything you need for this one. It does not teach you anything new about Rust, but it should get you more comfortable writing code. Also, if you struggle, try Googling for help, or turn to Reddit for help. We have not yet covered how to find your way around the Rust documentation, but that is coming very soon!
 
-
 ## Week 3: Half way there
-We have passed the half-way point of the foundation. When this week is done, we will have covered all the essentials. From that point on our learning will change somewhat. We will write more code ourselves and the material we are reading will change. We will be going into depth.
-But for now, let's hunker down and get through more new material. But first...
+I know you are getting a bit tired of reading. Rust is said to have a steep learning curve. They say it's hard to learn. We have covered a lot, but still have fundamental material to cover. Hang in there. Two more weeks, and then you are encouraged to take a break. Keep fighting!
 
 ### Week 3, Day 1: A breather (~ 1 hour, 30min)
 Today we will sit back and watch video again. Bring out the popcorn.
@@ -215,14 +214,17 @@ Again, as usual, don't worry too much if you don't understand all the details. S
 
 * 📺 1h 32min: Watch [Rust Programming Techniques](https://www.youtube.com/watch?v=vqavdUGKeb4). 
 
-### Week 3, Day 1: Iterators and closures
+### Week 3, Day 2: Packages, crates and modules
+
+### Week 3, Day 3: Iterators and closures
 https://blog.guillaume-gomez.fr/articles/2017-03-09+Little+tour+of+multiple+iterators+implementation+in+Rust
 http://xion.io/post/code/rust-iter-patterns.html
 https://hermanradtke.com/2015/06/22/effectively-using-iterators-in-rust.html
 
-### Week 3, Day 2: Itertools
-### Week 3, Day 3: Coding!
-### Week 3, Day 4: Back to ownership
+### Week 3, Day 4: Itertools
+
+### Week 3, Day 5: Coding!
+### Week 3, Day 6: Back to ownership
 Today we are going to to a lot of reading. In fact, most pieces of the puzzle is already in place. Today we will be reading blog posts on ownership. It's always good to see others perspectives.
 
 * 📰 15 min: Read [Lock-freedom without garbage collection](https://aturon.github.io/blog/2015/08/27/epoch/)
@@ -232,14 +234,31 @@ Today we are going to to a lot of reading. In fact, most pieces of the puzzle is
 * 📰 5 min: Read [Strategies for solving 'cannot move out of' borrowing errors in Rust](https://hermanradtke.com/2015/06/09/strategies-for-solving-cannot-move-out-of-borrowing-errors-in-rust.html)
 * 📰 5 min: Read [Graphical depiction of ownership and borrowing in Rust](https://rufflewind.com/2017-02-15/rust-move-copy-borrow)
 
-### Week 3, Day 5: 
-### Week 3, Day 6: 
-### Week 3, Day 7: 
+### Week 3, Day 7: More on crates and Rust documentation
 
-## Week 4
-It is time to take a break. No, really.
-When I got to this point, I was a bit sick and tired of all the reading. I wanted to build something. If you are feeling the same way, go ahead and do that. You still don't have all the pieces to the puzzle for completing a full-fledged app. But you can get quiet far. Practice makes perfect. 
-Take a break. Go build something (and please share it with me when you are done!), and then get back here to continue the journey.
+## Week 4: Wrapping up the basics
+
+### Week 4, Day 1: Tests
+
+### Week 4, Day 2: (TBD)
+
+### Week 4, Day 3: IO
+
+### Week 4, Day 4: (TBD)
+
+### Week 4, Day 5: Boxes, refs, etc.
+
+### Week 4, Day 6: Concurrency
+
+### Week 4, Day 7: Coding
+
+## Week 5: Jumping into the deep end
+It is time to take a break. No, really. Take a break.
+When I got to this point, I was sick and tired of all the reading. I wanted to build something. If you are feeling the same way, go ahead and do that. You still don't have all the pieces to the puzzle for completing a full-fledged app. But you can get quiet far. Practice makes perfect. 
+You definitly have everything that you need to contribute to open source. Give it a shot. Look for suitable Issues in some of all the great Rust projects available here on GitHub. It will do you good to get out into the real world.
+... and then, when you are ready, get back here to continue the journey.
+
+### Week 5, Day 1: Deep dive into Lifetimes
 
 ## Reference
 ### Video
@@ -280,21 +299,14 @@ Take a break. Go build something (and please share it with me when you are done!
 - [Leetcode.com](https://leetcode.com)
 
 ## Todo
-* Packages, crates and modules
-* More on crates and Rust documentation
-* Tests
 * Basic I/O
-* Deep dive into Lifetimes
-
-* Concurrency and threads
+* Async / Await
 * Networking
 * Building a webserver
 * Improving our webserver
 * Channels
 * Building a TCP/IP Server
 * Building a TCP/IP Server continued.
-* Async/Await
-* Async/Await continued.
 * I/O and Tokio
 * Filesystem and Processes
 * Understanding Ripgrep
