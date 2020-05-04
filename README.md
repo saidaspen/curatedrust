@@ -189,7 +189,7 @@ Up until this point, what we have learned has been pretty much what we would lea
 * 📚 25 min: Read [10. Generic Types, Traits, and Lifetimes](https://doc.rust-lang.org/stable/book/ch10-00-generics.html) from [The Rust Programming Language](https://doc.rust-lang.org/book/title-page.html)
 * 📚 10 min: Read through section Reading Rust from [Why Rust?](https://www.oreilly.com/programming/free/files/why-rust.pdf). This has some material that you will know since before, but it does'nt hurt to repeat it.
 * 📚 20 min: Read [14. Generics from Rust by Example](https://doc.rust-lang.org/stable/rust-by-example/generics.html), it goes a bit deeper.
-* 📚 20 min: Read entire section of [16 Traits](https://doc.rust-lang.org/stable/rust-by-example/traits.html). **Except for** *16.5 Iterators*, we will cover Iterators* next week, and *16.6 impl Trait*, which we will also cover later. Lot's of good examples in this part of the book. Pay special attention to anything related to ```Box``` and ```dyn```.
+* 📚 20 min: Read entire section of [16 Traits](https://doc.rust-lang.org/stable/rust-by-example/traits.html). **Except for** *16.5 Iterators*, we will cover Iterators* next week, and *16.6 impl Trait*, which we will also cover later. Lot's of good examples in this part of the book. Pay special attention to anything related to `Box` and `dyn` .
 * 💻 20 min: Do [Rustlings](https://github.com/fmoko/rustlings) exercises *traits1*, *traits2*, *generics1*, *generics2*, *generics3*
 
 #### Extra
@@ -215,6 +215,18 @@ Again, as usual, don't worry too much if you don't understand all the details. S
 * 📺 1h 32min: Watch [Rust Programming Techniques](https://www.youtube.com/watch?v=vqavdUGKeb4). 
 
 ### Week 3, Day 2: Packages, crates and modules
+Today is quiet heavy on the reading, but we finish off the day with some code.
+* min: Read through the whole section [7. Managing Growing Projects with Packages, Crates and Modules](https://doc.rust-lang.org/book/ch07-00-managing-growing-projects-with-packages-crates-and-modules.html) from [The Rust Programming Language](https://doc.rust-lang.org/book/title-page.html).
+* min: Read section [10. Modules](https://doc.rust-lang.org/rust-by-example/mod.html) from Rust By Example.
+* min: Read section [11. Crates](https://doc.rust-lang.org/rust-by-example/crates.html) from Rust By Example.
+* min: Read through the whole section [14.More about Cargo and Crates.io](https://doc.rust-lang.org/book/ch14-00-more-about-cargo.html) from [The Rust Programming Language](https://doc.rust-lang.org/book/title-page.html).
+* min: Read section [12. Cargo](https://doc.rust-lang.org/rust-by-example/cargo.html) from Rust By Example.
+* min: Read section [4. Modules and Cargo](https://stevedonovan.github.io/rust-gentle-intro/4-modules.html) from A Gentle Introduction To Rust.
+* 💻  min: Do [Rustlings](https://github.com/fmoko/rustlings) exercises *modules1* and *modules2*
+
+#### Extra
+* Have a look at the Cargo project on GitHub, [rust-lang/cargo](https://github.com/rust-lang/cargo). If you are feeling confident, try to solve one! Looks for issues with the label `E-easy` or `E-mentor`. Also checkout the [Contribution page](https://github.com/rust-lang/cargo/blob/master/CONTRIBUTING.md)
+
 
 ### Week 3, Day 3: Iterators and closures
 https://blog.guillaume-gomez.fr/articles/2017-03-09+Little+tour+of+multiple+iterators+implementation+in+Rust
