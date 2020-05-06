@@ -193,7 +193,7 @@ Up until this point, what we have learned has been pretty much what we would lea
 * 💻 20 min: Do [Rustlings](https://github.com/fmoko/rustlings) exercises *traits1*, *traits2*, *generics1*, *generics2*, *generics3*
 
 #### Extra
-* 📰 10 min: Read [Rust's Built-in Traits, the When, How & Why](https://llogiq.github.io/2015/07/30/traits.html)
+* 📰 30 min: Read [Rust's Built-in Traits, the When, How & Why](https://llogiq.github.io/2015/07/30/traits.html)
 * 📰 10 min: Read [Rust, Lifetimes, and Collections](http://cglab.ca/~abeinges/blah/rust-lifetimes-and-collections/)
 * 📰 10 min: Read [Rust, Generics, and Collections](http://cglab.ca/~abeinges/blah/rust-generics-and-collections/)
 
