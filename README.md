@@ -376,7 +376,7 @@ https://gist.github.com/brson/a324c83a6af6a8a78dfaa9d33eb9b48e
 [Educational Rust live coding - Building a git CLI](https://www.youtube.com/watch?v=YFzF1AHYjes)
 [Maximum Sum of Subarrays (Leetcode) in Rust](https://www.youtube.com/watch?v=G1deF4Rehlw)
 [Rust Stream: String it All Together!](https://www.youtube.com/watch?v=7I11degAElQ)
-
+[Rust stream: ownership, closures, and threads - oh my.](https://www.youtube.com/watch?v=2mwwYbBRJSo)
 https://techyaks.com/rust-all-ldconf.html
 
 * 📰 10 min: Read [Rust, Lifetimes, and Collections](http://cglab.ca/~abeinges/blah/rust-lifetimes-and-collections/)
