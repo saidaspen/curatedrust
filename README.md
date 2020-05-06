@@ -194,8 +194,7 @@ Up until this point, what we have learned has been pretty much what we would lea
 
 #### Extra
 * 📰 30 min: Read [Rust's Built-in Traits, the When, How & Why](https://llogiq.github.io/2015/07/30/traits.html)
-* 📰 10 min: Read [Rust, Lifetimes, and Collections](http://cglab.ca/~abeinges/blah/rust-lifetimes-and-collections/)
-* 📰 10 min: Read [Rust, Generics, and Collections](http://cglab.ca/~abeinges/blah/rust-generics-and-collections/)
+
 
 ### Week 2, Day 7: More traits and life-times (~50 min)
 * 📚 15 min: Read [15.4 Lifetimes from Rust by Example](https://doc.rust-lang.org/rust-by-example/scope/lifetime.html).
@@ -312,9 +311,14 @@ You definitly have everything that you need to contribute to open source. Give i
 
 ## Todo
 * Basic I/O
-* Async / Await
+### Async / Await
+https://smallcultfollowing.com/babysteps/blog/2020/04/30/async-interviews-my-take-thus-far/
+
 * Networking
-* Building a webserver
+### Building a webserver
+https://sergey-melnychuk.github.io/2020/04/27/multi-threaded-http-websocket-server-in-rust/
+https://docs.qovery.com/guides/tutorial/create-a-blazingly-fast-api-in-rust-part-1/
+
 * Improving our webserver
 * Channels
 * Building a TCP/IP Server
@@ -323,7 +327,9 @@ You definitly have everything that you need to contribute to open source. Give i
 * Filesystem and Processes
 * Understanding Ripgrep
 * Box, heap and pointers
-* Macros
+### Macros
+https://www.youtube.com/watch?v=q6paRBbLgNw
+
 * Regular expressions
 * Reading code Regex
 * Rocket
@@ -362,12 +368,19 @@ https://www.ralfj.de/blog/2016/01/09/the-scope-of-unsafe.html
 https://manishearth.github.io/blog/2015/05/27/wrapper-types-in-rust-choosing-your-guarantees/ 
 
 ### Random
+https://this-week-in-rust.org/
 [Idiomatic Rust](https://github.com/mre/idiomatic-rust)
 [Rust Anthology Master List](https://github.com/brson/rust-anthology/blob/master/master-list.md)
-
+https://www.youtube.com/watch?v=7I11degAElQ
 https://gist.github.com/brson/a324c83a6af6a8a78dfaa9d33eb9b48e
+[Educational Rust live coding - Building a git CLI](https://www.youtube.com/watch?v=YFzF1AHYjes)
+[Maximum Sum of Subarrays (Leetcode) in Rust](https://www.youtube.com/watch?v=G1deF4Rehlw)
+[Rust Stream: String it All Together!](https://www.youtube.com/watch?v=7I11degAElQ)
 
 https://techyaks.com/rust-all-ldconf.html
+
+* 📰 10 min: Read [Rust, Lifetimes, and Collections](http://cglab.ca/~abeinges/blah/rust-lifetimes-and-collections/)
+* 📰 10 min: Read [Rust, Generics, and Collections](http://cglab.ca/~abeinges/blah/rust-generics-and-collections/)
 
 Video about memory safety etc. 38 minutes. [A Case for Oxidation](https://www.youtube.com/watch?v=cDFSrVhnZKo)
 
